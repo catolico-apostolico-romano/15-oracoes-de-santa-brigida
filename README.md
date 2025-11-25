@@ -10,19 +10,19 @@ O Papa Pio IX tomou conhecimento destas orações. Ele as confirmou em 31 de Mai
 
 Há muito tempo, Santa Brígida tinha pedido ao Senhor para lhe revelar o número de pancadas sofridas em Sua dolorosa Paixão. Um dia apareceu O Salvador e lhe disse:
 
-> "Recebi no meu corpo 5480 pancadas. Qerendo venerá-las, reze cada dia durante um ano, 15 Pai-nosso, 15 Ave-Marias e mais as orações seguintes."
+> "*Recebi no meu corpo 5480 pancadas. Qerendo venerá-las, reze cada dia durante um ano, 15 Pai-nosso, 15 Ave-Marias e mais as orações seguintes.*"
 
 Jesus ensinou a Santa Brígida as orações.
 
-> "Passado este ano, tens venerado cada uma destas 5480 feridas."
+> "*Passado este ano, tens venerado cada uma destas 5480 feridas.*"
 
 E O Salvador disse então:
 
-> "Quem rezar essas orações diariamente durante um ano, livrará do purgatório 15 almas do seu parentesco; 15 almas justas do seu parentesco receberão a graça da perseverança e 15 pecadores do parentesco se converter-se-ão.
+> "*Quem rezar essas orações diariamente durante um ano, livrará do purgatório 15 almas do seu parentesco; 15 almas justas do seu parentesco receberão a graça da perseverança e 15 pecadores do parentesco se converter-se-ão.*
 >
-> A própria pessoa que reza alcançará os primeiros graus da perfeição e quinze dias antes da sua morte dar-lhe-ei o Meu precioso Corpo, para ficar preservada da fome eterna e dar-lhe-ei de beber o Meu precioso Sangue, para ficar preservada da sede eterna. E 15 dias antes da sua morte receberá profunda contrição e grande conhecimento de seus pecados. Colocarei o sinal da Minha Cruz vitoriosa entre ela e o maligno, para que fique preservada de suas ciladas. Antes da sua morte a visitarei com minha bem-amada Mãe, receberei a alma com clemência e introduzi-la-ei no gozo eterno.
+> *A própria pessoa que reza alcançará os primeiros graus da perfeição e quinze dias antes da sua morte dar-lhe-ei o Meu precioso Corpo, para ficar preservada da fome eterna e dar-lhe-ei de beber o Meu precioso Sangue, para ficar preservada da sede eterna. E 15 dias antes da sua morte receberá profunda contrição e grande conhecimento de seus pecados. Colocarei o sinal da Minha Cruz vitoriosa entre ela e o maligno, para que fique preservada de suas ciladas. Antes da sua morte a visitarei com minha bem-amada Mãe, receberei a alma com clemência e introduzi-la-ei no gozo eterno.*
 >
-> No céu receberá o conhecimento especial da Minha Divindade, que não transmitirei àqueles que não rezam estas orações.
+> *No céu receberá o conhecimento especial da Minha Divindade, que não transmitirei àqueles que não rezam estas orações.*"
 
 Mesmo que alguém tivesse passado 30 anos em pecado mortal, logo que reza estas orações ou faz o propósito de rezálas, o Senhor perdoar-lhe-á todos os pecados e defender-lhe-á contra todas as más tentações. Ele protege os seus cinco sentidos e o preserva de uma morte repentina e imprevista, e a sua alma de uma condenação eterna. E tudo que seja de Deus e da Santíssma Virgem ser-lhe-á concedido.
 
@@ -44,16 +44,14 @@ Em nome Do Pai, Do Filho e Do Espírito Santo, amém.
 
 ### Primeira Oração: Uma visão geral do sofrimento de Cristo até a flagelação
 
-<details>
-<summary>Pai Nosso</summary> que estais nos Céus, santificado seja o Vosso Nome!
-Venha a nós o Vosso Reino e seja feita a Vossa Vontade, assim na Terra como no céu.
-O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
-</details>
+<!-- markdownlint-disable MD028 -->
+> Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+> Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+> O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-<details>
-<summary>Ave Maria</summary> cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
-Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
-</details>
+> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
+<!-- markdownlint-enable MD028 -->
 
 Ó Jesus Cristo, doçura eterna para aqueles que Vos amam, alegria que ultrapassa toda alegria e todo o desejo. Esperança de salvação dos pecadores que declarastes não terdes maior contentamento do que estar entre os homens, até ao ponto de assumir a nossa natureza, na plenitude dos tempos, por amor deles, lembrai-vos dos sofrimentos, desde o primeiro instante de Vossa Conceição e sobretudo durante a Vossa Santa Paixão, assim como havia sido decretado e estabelecido desde toda a eternidade na mente Divina.
 
@@ -67,16 +65,14 @@ Em memória dessas penas e dores que suportatstes antes da Vossa Paixão sobrea 
 
 ### Segunda Oração: A flagelação de Jesus
 
-<details>
-<summary>Pai Nosso</summary> que estais nos Céus, santificado seja o Vosso Nome!
-Venha a nós o Vosso Reino e seja feita a Vossa Vontade, assim na Terra como no céu.
-O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
-</details>
+<!-- markdownlint-disable MD028 -->
+> Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+> Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+> O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-<details>
-<summary>Ave Maria</summary> cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
-Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
-</details>
+> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
+<!-- markdownlint-enable MD028 -->
 
 Ó Jesus, verdadeira liberdade dos Anjos, paraíso de delícias, lembrai-Vos do peso acabrunhador de tristeza que suportastes quando Vossos inimigos, quais leões furiosos, Vos cercaram e, por meio de mil inúrias, escarros, fobetadas, arranhões e outros inauditos supícios, Vos atormentaram à porfia.
 
@@ -84,16 +80,14 @@ Em consideração desses insultos e desses tormentos, eu Vos suplico, ó meu Sal
 
 ### Terceira Oração: A crucificação de Cristo
 
-<details>
-<summary>Pai Nosso</summary> que estais nos Céus, santificado seja o Vosso Nome!
-Venha a nós o Vosso Reino e seja feita a Vossa Vontade, assim na Terra como no céu.
-O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
-</details>
+<!-- markdownlint-disable MD028 -->
+> Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+> Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+> O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-<details>
-<summary>Ave Maria</summary> cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
-Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
-</details>
+> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
+<!-- markdownlint-enable MD028 -->
 
 Ó Jesus, Criador do Céu e da Terra, a quem coisa alguma pode conter ou limitar. Vós que tudo abarcais e tendes tudo sob o Vosso poder, lembrai-Vos da dor, repleta de amargura, que experimentastes quando os soldados, pregando na Cruz Vossas Sagradas mãos e Vossos pés tão delicados, transpassaram-nos com grandes e rombudos cravos. E não Vos encontrando no estado em que teriam desejado para dar largas à sua cólera, dilataram as Vossas chagas, exacerbando assim as Vossas dores.
 
@@ -101,16 +95,14 @@ Depois, por uma crueldade inaudita, Vos estenderam sobre a Cruz e Vos viraram de
 
 ### Quarta Oração: A prece de Jesus Cristo pelos algozes que O crucificaram
 
-<details>
-<summary>Pai Nosso</summary> que estais nos Céus, santificado seja o Vosso Nome!
-Venha a nós o Vosso Reino e seja feita a Vossa Vontade, assim na Terra como no céu.
-O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
-</details>
+<!-- markdownlint-disable MD028 -->
+> Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+> Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+> O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-<details>
-<summary>Ave Maria</summary> cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
-Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
-</details>
+> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
+<!-- markdownlint-enable MD028 -->
 
 Ó Jesus, Médico Celeste, que foste elevado na Cruz afim de curar as nossas chagas por meio das Vossas. Lembrai-Vos do abatimento em que Vos encontrastes e das contusões que Vos infligiram em Vossos Sagrados membros, dos quais nenhum permaneceu em seu lugar, de tal modo que dor alguma poderia ser comparada à Vossa.
 
@@ -120,16 +112,14 @@ Por esta grande Misericórdia e em memória desta dor, fazei com que a lembranç
 
 ### Quinta Oração: A misericórdia de Cristo para com os pecadores arrependidos
 
-<details>
-<summary>Pai Nosso</summary> que estais nos Céus, santificado seja o Vosso Nome!
-Venha a nós o Vosso Reino e seja feita a Vossa Vontade, assim na Terra como no céu.
-O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
-</details>
+<!-- markdownlint-disable MD028 -->
+> Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+> Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+> O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-<details>
-<summary>Ave Maria</summary> cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
-Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
-</details>
+> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
+<!-- markdownlint-enable MD028 -->
 
 Ó Jesus, espelho do esplendor eterno, lembrai-Vos da tristeza que sentistes, quando contemplando à luz da Vossa divindade a predestinação daqueles que deviam ser salvos pelos méritos de Vossa Santa Paixão, contemplastes ao mesmo tempo os réprobos que deviam ser condenados por causa dos seus pecados e lastimastes amargamente a sorte desses infelizes pecadores, perdidos e desesperados.
 
@@ -137,16 +127,14 @@ Por este abismo de compaixão e de piedade e, principalmente, pelabondade que ma
 
 ### Sexta Oração: O testamento de Jesus na Cruz
 
-<details>
-<summary>Pai Nosso</summary> que estais nos Céus, santificado seja o Vosso Nome!
-Venha a nós o Vosso Reino e seja feita a Vossa Vontade, assim na Terra como no céu.
-O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
-</details>
+<!-- markdownlint-disable MD028 -->
+> Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+> Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+> O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-<details>
-<summary>Ave Maria</summary> cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
-Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
-</details>
+> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
+<!-- markdownlint-enable MD028 -->
 
 Ó Jesus, Rei amável e todo desejável, lembrai-Vos da dor que experimentastes, quando nu e como um miserável pregado e levantado na Cruz, foste abandonado por todos os Vossos parentes e amigos, com exceção de Vossa Mãe bem-amada, que permaneceu em companhia de São João, muito fielmente junto de Vós na agonia. Lembrai-vos de que os entregastes um ao outro, dizendo: **"Mulher, eis aí o teu filho"** e a João: **"Eis aí a tua Mãe"**.
 
@@ -154,16 +142,14 @@ Eu Vos suplico, ó meu Salvador, pela espada de dor que então transpassou a alm
 
 ### Sétima Oração: A sede de Cristo
 
-<details>
-<summary>Pai Nosso</summary> que estais nos Céus, santificado seja o Vosso Nome!
-Venha a nós o Vosso Reino e seja feita a Vossa Vontade, assim na Terra como no céu.
-O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
-</details>
+<!-- markdownlint-disable MD028 -->
+> Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+> Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+> O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-<details>
-<summary>Ave Maria</summary> cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
-Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
-</details>
+> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
+<!-- markdownlint-enable MD028 -->
 
 Ó Jesus, fonte inexaurível de piedade, que por uma profunda ternura de amor dissestes sobre a Cruz: **"Tenho sede!"**, mas sede da salvação do gênero humano.
 
@@ -171,31 +157,27 @@ Eu vos suplico, ó meu Salvador, que vos digneis estimular o desejo que meu cora
 
 ### Oitava Oração: A bebida de Cristo
 
-<details>
-<summary>Pai Nosso</summary> que estais nos Céus, santificado seja o Vosso Nome!
-Venha a nós o Vosso Reino e seja feita a Vossa Vontade, assim na Terra como no céu.
-O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
-</details>
+<!-- markdownlint-disable MD028 -->
+> Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+> Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+> O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-<details>
-<summary>Ave Maria</summary> cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
-Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
-</details>
+> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
+<!-- markdownlint-enable MD028 -->
 
 Ó Jesus, doçura dos corações, suavidade dos espíritos, pelo amargo sabor do fel e do vinagre que provastes sobre a Cruz por amor de todos nós, concedei-me a graça de receber dignamente o Vosso Corpo e Vosso preciosíssimo Sangue durante a minha vida e na hora da minha morte, afim de que sirvam de remédio e de consolo para minha alma. Assim seja.
 
 ### Nona Oração: O clamor de angústia de Cristo na Cruz
 
-<details>
-<summary>Pai Nosso</summary> que estais nos Céus, santificado seja o Vosso Nome!
-Venha a nós o Vosso Reino e seja feita a Vossa Vontade, assim na Terra como no céu.
-O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
-</details>
+<!-- markdownlint-disable MD028 -->
+> Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+> Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+> O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-<details>
-<summary>Ave Maria</summary> cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
-Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
-</details>
+> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
+<!-- markdownlint-enable MD028 -->
 
 Ó Jesus, virtude real, alegria do espírito, lembrai-Vos da dor que suportastes quando mergulhado de amargura ao sentir aproximar-se a morte, insultado e ultrajado pelos homens, julgastes haver sido abandonado por Vosso Pai, dizendo-lhe: **"Meu Deus, Meu Deus, por que me abandonaste?"**
 
@@ -203,16 +185,14 @@ Por essa angústia eu Vos suplico, ó meu Salvador, que não me abandoneis nas a
 
 ### Décima Oração: As muitas feridas de Cristo
 
-<details>
-<summary>Pai Nosso</summary> que estais nos Céus, santificado seja o Vosso Nome!
-Venha a nós o Vosso Reino e seja feita a Vossa Vontade, assim na Terra como no céu.
-O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
-</details>
+<!-- markdownlint-disable MD028 -->
+> Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+> Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+> O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-<details>
-<summary>Ave Maria</summary> cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
-Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
-</details>
+> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
+<!-- markdownlint-enable MD028 -->
 
 Ó Jesus, que sois em todas as coisas começo e fim, vida e virtude, lembrai-Vos de que por nós foste mergulhado num abismo de dores, da planta dos pés até o alto da cabeça.
 
@@ -220,16 +200,14 @@ Em consideração da extensão de Vossas chagas, ensinai-me a guardar Vossos Man
 
 ### Décima Primeira Oração: As Chagas profundas de Cristo
 
-<details>
-<summary>Pai Nosso</summary> que estais nos Céus, santificado seja o Vosso Nome!
-Venha a nós o Vosso Reino e seja feita a Vossa Vontade, assim na Terra como no céu.
-O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
-</details>
+<!-- markdownlint-disable MD028 -->
+> Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+> Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+> O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-<details>
-<summary>Ave Maria</summary> cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
-Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
-</details>
+> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
+<!-- markdownlint-enable MD028 -->
 
 Ó Jesus, profundíssimo abismo de misericórdia, suplico-Vos em memória de Vossas chagas que penetraram até a medula de Vossos ossos e atingiram até Vossas entranhas, que Vos digneis afastar esse(a) pobre pecador(a) do lodaçal de ofensas em que está submerso(a), conduzindo-o(a) para longe do pecado.
 
@@ -237,16 +215,14 @@ Suplico-Vos também esconder-me de Vossa Face irritada, ocultando-me dentro de V
 
 ### Décima Segunda Oração: As chagas sangrentas de Jesus
 
-<details>
-<summary>Pai Nosso</summary> que estais nos Céus, santificado seja o Vosso Nome!
-Venha a nós o Vosso Reino e seja feita a Vossa Vontade, assim na Terra como no céu.
-O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
-</details>
+<!-- markdownlint-disable MD028 -->
+> Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+> Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+> O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-<details>
-<summary>Ave Maria</summary> cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
-Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
-</details>
+> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
+<!-- markdownlint-enable MD028 -->
 
 Ó Jesus, espelho de verdade, sinal de unidade, laço de caridade, lembri-Vos dos inumeráveis ferimentos que recebestes, desde a cabeça até os pés, ao ponto de ficardes dilacerado e coberto pela púrpura de Vosso Sangue adorável.
 
@@ -258,16 +234,14 @@ Que pela fiel lembrança de Vossa Paixão, o fruto dos Vossos sofrimentos seja r
 
 ### Décima Terceira Oração: A última angústia de Cristo
 
-<details>
-<summary>Pai Nosso</summary> que estais nos Céus, santificado seja o Vosso Nome!
-Venha a nós o Vosso Reino e seja feita a Vossa Vontade, assim na Terra como no céu.
-O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
-</details>
+<!-- markdownlint-disable MD028 -->
+> Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+> Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+> O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-<details>
-<summary>Ave Maria</summary> cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
-Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
-</details>
+> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
+<!-- markdownlint-enable MD028 -->
 
 Ó Jesus, fortíssimo Leão, Rei imortal e invencível. Lembrai-Vos da dor que Vos acabrunhou quando sentistes esgotadas todas as Vossas forças, tanto do Coração quanto do Corpo, e inclinastes a cabeça, dizendo: **"Tudo está consumado!"**
 
@@ -275,16 +249,14 @@ Por esta angústia e por esta dor, eu Vos suplico Senhor Jesus, que tenhasi pied
 
 ### Décima Quarta Oração: A morte de Cristo
 
-<details>
-<summary>Pai Nosso</summary> que estais nos Céus, santificado seja o Vosso Nome!
-Venha a nós o Vosso Reino e seja feita a Vossa Vontade, assim na Terra como no céu.
-O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
-</details>
+<!-- markdownlint-disable MD028 -->
+> Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+> Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+> O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-<details>
-<summary>Ave Maria</summary> cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
-Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
-</details>
+> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
+<!-- markdownlint-enable MD028 -->
 
 Ó Jesus, Filho Único do Pai, esplendor e imagem da Sua substância, lembrai-Vos da humilde recomendação que lhes dirigistes, dizendo: **"Meu Pai, em Vossas Mãos entrego o Meu Espírito!"** Depois expirastes, estando Vosso Corpo despedaçado, Vosso coração transpassado e as entranhas de Vossa misericórdia abertas para nos resgatar!
 
@@ -294,16 +266,14 @@ Na hora da minha morte, recebei, eu Vos peço, minha alma peregrina e exilada, q
 
 ### Décima Quinta Oração: O último e total derramamento do Sangue de Cristo
 
-<details>
-<summary>Pai Nosso</summary> que estais nos Céus, santificado seja o Vosso Nome!
-Venha a nós o Vosso Reino e seja feita a Vossa Vontade, assim na Terra como no céu.
-O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
-</details>
+<!-- markdownlint-disable MD028 -->
+> Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+> Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+> O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-<details>
-<summary>Ave Maria</summary> cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
-Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
-</details>
+> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
+<!-- markdownlint-enable MD028 -->
 
 Ó Jesus, vida verdadeira e fecunda, lembrai-Vos da abundante efusãod e Sangue que tão generosamente derramastes de Vosso Sagrado Corpo, assim como a uva é triturada no lagar. Do Vosso lado aberto pela lança de um dos soldaos, jorraram Sangue e Água, de tal modo que não retivestes uma gota sequer. E enfim, como um ramalhete de mirra elevado na Cruz, Vossa carne delicada se aniquilou, feneceu o humor de Vossas entranhas e secou a medula de Vossos ossos.
 
