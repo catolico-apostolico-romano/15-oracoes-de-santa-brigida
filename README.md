@@ -57,11 +57,11 @@ Em nome Do Pai, Do Filho e Do Espírito Santo, amém.
 
 Lembrai-vos, Senhor, que celebrando a Ceia com os vossos discípulos, depois de lhes haverdes lavado os pés, destes-lhes o Vosso Sagrado Corpo e precioso Sangue e consolando-os docemente lhes predissestes Vossa Paixão iminente. Lembrai-Vos da tristeza e da amargura que experimentastes em Vossa alma, como o testemunhastes Vós mesmo por estas palavras: **"Minha alma está triste até a morte"**.
 
-Lembrai-vos, Senhor, dos temores, angústias e dores que suportastes em Vosso Corpo delicado antes do suplício da Cruz, quando depois de ter rezado por três vezes, derramando um suor de Sangue, foste traído por Judas, Vosso discípulo, preso pela nação que escolhestes, acusado por testemunhas falsas, injustamente julgado por três juízes na flor de Vossa juventude e no Tempo Solene da Páscoa.
+Lembrai-vos, Senhor, dos temores, angústias e dores que suportastes em Vosso Corpo delicado antes do suplício da Cruz, quando depois de ter rezado por três vezes, derramando um suor de Sangue, foste traído por Judas, Vosso discípulo, preso pela nação que escolhestes, acusado por testemunhas falsas, injustamente julgado por três juízes na flor de Vossa juventude e no tempo solene da Páscoa.
 
 Lembrai-vos que foste despojado das vossas próprias vestes e revestido das vestes de irrisão; que Vos velaram os olhos e a face, que Vos deram bofetadas, que Vos coroaram de espinhos, que Vos puseram uma cana na mão e que atado à uma coluna foste despedaçado por golpes e acabrunhado de afrontas e ultrajes.
 
-Em memória dessas penas e dores que suportatstes antes da Vossa Paixão sobrea  Cruz, concedei-me antes da morte, uma verdadeira contrição, a oportunidade de me confessar com pureza de intenção e sinceridade absoluta, uma adequada satisfação e a remissão de todos os meus pecados. Assim seja.
+Em memória dessas penas e dores que suportastes antes da Vossa Paixão sobre a Cruz, concedei-me antes da morte, uma verdadeira contrição, a oportunidade de me confessar com pureza de intenção e sinceridade absoluta, uma adequada satisfação e a remissão de todos os meus pecados. Assim seja.
 
 ### Segunda Oração: A flagelação de Jesus
 
@@ -286,5 +286,6 @@ Por essa tão amarga Paixão e pela efusão de Vosso precioso sangue, eu Vos sup
 > "Aquele que disser essas orações pode estar seguro de ser associado ao Supremo Coro dos Anjos e todo aquele que ensinar a alguém, terá assegurado para sempre sua felicidade e seus méritos."
 >
 > "No lugar onde se encontrarem e onde forem recitadas essas orações, Deus aí estará também presente com a Sua Graça."
+
 
 
