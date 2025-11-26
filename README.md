@@ -10,7 +10,7 @@ O Papa Pio IX tomou conhecimento destas orações. Ele as confirmou em 31 de Mai
 
 Há muito tempo, Santa Brígida tinha pedido ao Senhor para lhe revelar o número de pancadas sofridas em Sua dolorosa Paixão. Um dia apareceu O Salvador e lhe disse:
 
-> "*Recebi no meu corpo 5480 pancadas. Qerendo venerá-las, reze cada dia durante um ano, 15 Pai-nosso, 15 Ave-Marias e mais as orações seguintes.*"
+> "*Recebi no meu corpo 5480 pancadas. Qerendo venerá-las, reze cada dia durante um ano 15 Pai-nossos, 15 Ave-Marias e mais as orações seguintes.*"
 
 Jesus ensinou a Santa Brígida as orações.
 
@@ -74,7 +74,7 @@ Em memória dessas penas e dores que suportastes antes da Vossa Paixão sobre a 
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
-Ó Jesus, verdadeira liberdade dos Anjos, paraíso de delícias, lembrai-Vos do peso acabrunhador de tristeza que suportastes quando Vossos inimigos, quais leões furiosos, Vos cercaram e, por meio de mil inúrias, escarros, fobetadas, arranhões e outros inauditos supícios, Vos atormentaram à porfia.
+Ó Jesus, verdadeira liberdade dos Anjos, paraíso de delícias, lembrai-Vos do peso acabrunhador de tristeza que suportastes quando Vossos inimigos, quais leões furiosos, Vos cercaram e, por meio de mil injúrias, escarros, bofetadas, arranhões e outros inauditos suplícios, Vos atormentaram à porfia.
 
 Em consideração desses insultos e desses tormentos, eu Vos suplico, ó meu Salvador, que Vos digneis libertar-me dos meus inimigos visíveis e invisíveis e fazer-me chegar, com Vosso auxílio, à perfeição da salvação eterna. Assim seja.
 
@@ -106,7 +106,7 @@ Depois, por uma crueldade inaudita, Vos estenderam sobre a Cruz e Vos viraram de
 
 Ó Jesus, Médico Celeste, que foste elevado na Cruz afim de curar as nossas chagas por meio das Vossas. Lembrai-Vos do abatimento em que Vos encontrastes e das contusões que Vos infligiram em Vossos Sagrados membros, dos quais nenhum permaneceu em seu lugar, de tal modo que dor alguma poderia ser comparada à Vossa.
 
-Da planta dos pés até o alto da cabeça, nenhuma parte do Vosso corpo esteve isenta de tormentos; E entretanto, esquecido de Vossos sofrimentos, não Vos cansastes de suplicar a Vosso ài pelos inimigos que Vos cercavam, dizendo-lhe: **"Pai, perdoai-lhes, porque não sabem o que fazem"**.
+Da planta dos pés até o alto da cabeça, nenhuma parte do Vosso corpo esteve isenta de tormentos; E entretanto, esquecido de Vossos sofrimentos, não Vos cansastes de suplicar a Vosso Pai pelos inimigos que Vos cercavam, dizendo-lhe: **"Pai, perdoai-lhes, porque não sabem o que fazem"**.
 
 Por esta grande Misericórdia e em memória desta dor, fazei com que a lembrança de Vossa Paixão, tão impregnada de amargura, opere em mim uma perfeita contrição e a remissão de todos os meus pecados. Assim seja.
 
@@ -121,9 +121,9 @@ Por esta grande Misericórdia e em memória desta dor, fazei com que a lembranç
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
-Ó Jesus, espelho do esplendor eterno, lembrai-Vos da tristeza que sentistes, quando contemplando à luz da Vossa divindade a predestinação daqueles que deviam ser salvos pelos méritos de Vossa Santa Paixão, contemplastes ao mesmo tempo os réprobos que deviam ser condenados por causa dos seus pecados e lastimastes amargamente a sorte desses infelizes pecadores, perdidos e desesperados.
+Ó Jesus, espelho do esplendor eterno, lembrai-Vos da tristeza que sentistes, quando contemplando à luz da Vossa divindade a predestinação daqueles que deviam ser salvos pelos méritos de Vossa Santa Paixão, contemplastes ao mesmo tempo a multidão dos réprobos que deviam ser condenados por causa dos seus pecados e lastimastes amargamente a sorte desses infelizes pecadores, perdidos e desesperados.
 
-Por este abismo de compaixão e de piedade e, principalmente, pelabondade que manifestastes ao bom ladrão, dizendo-lhe: **"Hoje estarás Comigo no Paraíso"**, eu Vos suplico, ò doce Jesus, que na hora de minha morte useis de misericórdia para comigo. Assim seja.
+Por este abismo de compaixão e de piedade e, principalmente, pela bondade que manifestastes ao bom ladrão, dizendo-lhe: **"Hoje estarás Comigo no Paraíso"**, eu Vos suplico, ò doce Jesus, que na hora de minha morte useis de misericórdia para comigo. Assim seja.
 
 ### Sexta Oração: O testamento de Jesus na Cruz
 
@@ -136,7 +136,7 @@ Por este abismo de compaixão e de piedade e, principalmente, pelabondade que ma
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
-Ó Jesus, Rei amável e todo desejável, lembrai-Vos da dor que experimentastes, quando nu e como um miserável pregado e levantado na Cruz, foste abandonado por todos os Vossos parentes e amigos, com exceção de Vossa Mãe bem-amada, que permaneceu em companhia de São João, muito fielmente junto de Vós na agonia. Lembrai-vos de que os entregastes um ao outro, dizendo: **"Mulher, eis aí o teu filho"** e a João: **"Eis aí a tua Mãe"**.
+Ó Jesus, Rei amável e todo desejável, lembrai-Vos da dor que experimentastes quando nu e como um miserável pregado e levantado na Cruz, foste abandonado por todos os Vossos parentes e amigos, com exceção de Vossa Mãe bem-amada que permaneceu em companhia de São João, muito fielmente junto de Vós na agonia. Lembrai-vos de que os entregastes um ao outro, dizendo: **"Mulher, eis aí o teu filho"** e a João: **"Eis aí a tua Mãe"**.
 
 Eu Vos suplico, ó meu Salvador, pela espada de dor que então transpassou a alma de Vossa Santa Mãe, que tenhais compaixão de mim em todas as minhas angústias e tribulações, tanto corporais como espirituais e que Vos digneis assistir-me nas provações que me sobrevierem, sobretudo na hora da minha morte. Assim seja.
 
@@ -245,7 +245,7 @@ Que pela fiel lembrança de Vossa Paixão, o fruto dos Vossos sofrimentos seja r
 
 Ó Jesus, fortíssimo Leão, Rei imortal e invencível. Lembrai-Vos da dor que Vos acabrunhou quando sentistes esgotadas todas as Vossas forças, tanto do Coração quanto do Corpo, e inclinastes a cabeça, dizendo: **"Tudo está consumado!"**
 
-Por esta angústia e por esta dor, eu Vos suplico Senhor Jesus, que tenhasi piedade de mim quando soar a minha última hora e minha alma estiver amargurada e meu espírito cheio e aflição . Assim seja.
+Por esta angústia e por esta dor, eu Vos suplico Senhor Jesus, que tenhais piedade de mim quando soar a minha última hora e minha alma estiver amargurada e meu espírito cheio e aflição . Assim seja.
 
 ### Décima Quarta Oração: A morte de Cristo
 
@@ -275,7 +275,7 @@ Na hora da minha morte, recebei, eu Vos peço, minha alma peregrina e exilada, q
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
-Ó Jesus, vida verdadeira e fecunda, lembrai-Vos da abundante efusãod e Sangue que tão generosamente derramastes de Vosso Sagrado Corpo, assim como a uva é triturada no lagar. Do Vosso lado aberto pela lança de um dos soldaos, jorraram Sangue e Água, de tal modo que não retivestes uma gota sequer. E enfim, como um ramalhete de mirra elevado na Cruz, Vossa carne delicada se aniquilou, feneceu o humor de Vossas entranhas e secou a medula de Vossos ossos.
+Ó Jesus, vida verdadeira e fecunda, lembrai-Vos da abundante efusão de sangue que tão generosamente derramastes de Vosso Sagrado Corpo, assim como a uva é triturada no lagar. Do Vosso lado aberto pela lança de um dos soldados, jorraram sangue e água, de tal modo que não retivestes uma gota sequer. E enfim, como um ramalhete de mirra elevado na Cruz, Vossa carne delicada se aniquilou, feneceu o humor de Vossas entranhas e secou a medula de Vossos ossos.
 
 Por essa tão amarga Paixão e pela efusão de Vosso precioso sangue, eu Vos suplico, ó bom Jesus, que recebais minha alma quando eu estiver na agonia. Assim seja.
 
@@ -286,7 +286,3 @@ Por essa tão amarga Paixão e pela efusão de Vosso precioso sangue, eu Vos sup
 > "Aquele que disser essas orações pode estar seguro de ser associado ao Supremo Coro dos Anjos e todo aquele que ensinar a alguém, terá assegurado para sempre sua felicidade e seus méritos."
 >
 > "No lugar onde se encontrarem e onde forem recitadas essas orações, Deus aí estará também presente com a Sua Graça."
-
-
-
-
