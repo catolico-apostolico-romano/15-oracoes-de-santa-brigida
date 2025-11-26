@@ -32,7 +32,7 @@ jobs:
       - run: |
           REPO_NAME=$(basename ${{ github.repository }})
           echo "REPO_NAME=$REPO_NAME" >> $GITHUB_ENV
-          mv "README.pdf" "${{ env.REPO_NAME }}.pdf"
+          mv "README.pdf" "$REPO_NAME.pdf"
       - name: Commit & Push changes
         run: |
           git config user.name "github-actions[bot]"
