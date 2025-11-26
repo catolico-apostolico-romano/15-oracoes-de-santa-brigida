@@ -2,7 +2,7 @@
 
 ## Promessas de Nosso Senhor
 
-No dia 14 de Junho de 1303 no momento do nascimento de Brígida, o pároco Rasbo, na Suécia, estava rezando pela libertação feliz de Ingeborde. De repente viu-se rodeado de uma luz tão resplandecente da qual saiu a Virgem Mãe e disse: "em Birger nasceu uma menina, sua voz será ouvida pelo mundo inteiro".
+No dia 14 de Junho de 1303 no momento do nascimento de Brígida, o pároco Rasbo, na Suécia, estava rezando pela libertação feliz de Ingeborde. De repente viu-se rodeado de uma luz tão resplandecente da qual saiu a Virgem Mãe e disse: *"Em Birger nasceu uma menina, sua voz será ouvida pelo mundo inteiro"*.
 
 Essas orações e promessas foram encontradas num livro impresso em Toulouse em 1740. Escritas e publicadas por Pe. Adrien Parvillens (jesuíta, missionário apostólico na Terra Santa), com a licença e recomendação de propagá-las.
 
@@ -10,19 +10,19 @@ O Papa Pio IX tomou conhecimento destas orações. Ele as confirmou em 31 de Mai
 
 Há muito tempo, Santa Brígida tinha pedido ao Senhor para lhe revelar o número de pancadas sofridas em Sua dolorosa Paixão. Um dia apareceu O Salvador e lhe disse:
 
-> "*Recebi no meu corpo 5480 pancadas. Qerendo venerá-las, reze cada dia durante um ano 15 Pai-nossos, 15 Ave-Marias e mais as orações seguintes.*"
+> *"Recebi no meu corpo 5480 pancadas. Qerendo venerá-las, reze cada dia durante um ano 15 Pai-nossos, 15 Ave-Marias e mais as orações seguintes."*
 
 Jesus ensinou a Santa Brígida as orações.
 
-> "*Passado este ano, tens venerado cada uma destas 5480 feridas.*"
+> *"Passado este ano, tens venerado cada uma destas 5480 feridas."*
 
 E O Salvador disse então:
 
-> "*Quem rezar essas orações diariamente durante um ano, livrará do purgatório 15 almas do seu parentesco; 15 almas justas do seu parentesco receberão a graça da perseverança e 15 pecadores do parentesco se converter-se-ão.*
+> *"Quem rezar essas orações diariamente durante um ano, livrará do purgatório 15 almas do seu parentesco; 15 almas justas do seu parentesco receberão a graça da perseverança e 15 pecadores do parentesco se converter-se-ão.*
 >
 > *A própria pessoa que reza alcançará os primeiros graus da perfeição e quinze dias antes da sua morte dar-lhe-ei o Meu precioso Corpo, para ficar preservada da fome eterna e dar-lhe-ei de beber o Meu precioso Sangue, para ficar preservada da sede eterna. E 15 dias antes da sua morte receberá profunda contrição e grande conhecimento de seus pecados. Colocarei o sinal da Minha Cruz vitoriosa entre ela e o maligno, para que fique preservada de suas ciladas. Antes da sua morte a visitarei com minha bem-amada Mãe, receberei a alma com clemência e introduzi-la-ei no gozo eterno.*
 >
-> *No céu receberá o conhecimento especial da Minha Divindade, que não transmitirei àqueles que não rezam estas orações.*"
+> *No céu receberá o conhecimento especial da Minha Divindade, que não transmitirei àqueles que não rezam estas orações."*
 
 Mesmo que alguém tivesse passado 30 anos em pecado mortal, logo que reza estas orações ou faz o propósito de rezálas, o Senhor perdoar-lhe-á todos os pecados e defender-lhe-á contra todas as más tentações. Ele protege os seus cinco sentidos e o preserva de uma morte repentina e imprevista, e a sua alma de uma condenação eterna. E tudo que seja de Deus e da Santíssma Virgem ser-lhe-á concedido.
 
@@ -286,3 +286,4 @@ Por essa tão amarga Paixão e pela efusão de Vosso precioso sangue, eu Vos sup
 > "Aquele que disser essas orações pode estar seguro de ser associado ao Supremo Coro dos Anjos e todo aquele que ensinar a alguém, terá assegurado para sempre sua felicidade e seus méritos."
 >
 > "No lugar onde se encontrarem e onde forem recitadas essas orações, Deus aí estará também presente com a Sua Graça."
+
