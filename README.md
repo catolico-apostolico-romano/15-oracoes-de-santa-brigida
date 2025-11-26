@@ -76,7 +76,7 @@ Em memória dessas penas e dores que suportatstes antes da Vossa Paixão sobrea 
 
 Ó Jesus, verdadeira liberdade dos Anjos, paraíso de delícias, lembrai-Vos do peso acabrunhador de tristeza que suportastes quando Vossos inimigos, quais leões furiosos, Vos cercaram e, por meio de mil inúrias, escarros, fobetadas, arranhões e outros inauditos supícios, Vos atormentaram à porfia.
 
-Em consideração desses insultos e desses tormentos, eu Vos suplico, ó meu Salvador, que Vos digneis libertar-me dos meus inimidos visíveis e invisíveis e fazer-me chegar, com Vosso auxílio, à perfeição da salvação eterna. Assim seja.
+Em consideração desses insultos e desses tormentos, eu Vos suplico, ó meu Salvador, que Vos digneis libertar-me dos meus inimigos visíveis e invisíveis e fazer-me chegar, com Vosso auxílio, à perfeição da salvação eterna. Assim seja.
 
 ### Terceira Oração: A crucificação de Cristo
 
@@ -286,3 +286,4 @@ Por essa tão amarga Paixão e pela efusão de Vosso precioso sangue, eu Vos sup
 > "Aquele que disser essas orações pode estar seguro de ser associado ao Supremo Coro dos Anjos e todo aquele que ensinar a alguém, terá assegurado para sempre sua felicidade e seus méritos."
 >
 > "No lugar onde se encontrarem e onde forem recitadas essas orações, Deus aí estará também presente com a Sua Graça."
+
