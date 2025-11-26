@@ -55,7 +55,7 @@ Em nome Do Pai, Do Filho e Do Espírito Santo, amém.
 
 Ó Jesus Cristo, doçura eterna para aqueles que Vos amam, alegria que ultrapassa toda alegria e todo o desejo. Esperança de salvação dos pecadores que declarastes não terdes maior contentamento do que estar entre os homens, até ao ponto de assumir a nossa natureza, na plenitude dos tempos, por amor deles, lembrai-vos dos sofrimentos, desde o primeiro instante de Vossa Conceição e sobretudo durante a Vossa Santa Paixão, assim como havia sido decretado e estabelecido desde toda a eternidade na mente Divina.
 
-Lembrai-vos, Senhor, que celebrando a Ceia com os vossos discípulos, depois de lhes haverdes lavado os pés, destes-lhes o Vosso Sagrado Corpo e preciso Sangue e consolando-os docemente lhes predissestes Vossa Paixão iminente. Lembrai-Vos da tristeza e da amargura que experimentastes em Vossa alma, como o testemunhastes Vós mesmo por estas palavras: **"Minha alma está triste até a morte"**.
+Lembrai-vos, Senhor, que celebrando a Ceia com os vossos discípulos, depois de lhes haverdes lavado os pés, destes-lhes o Vosso Sagrado Corpo e precioso Sangue e consolando-os docemente lhes predissestes Vossa Paixão iminente. Lembrai-Vos da tristeza e da amargura que experimentastes em Vossa alma, como o testemunhastes Vós mesmo por estas palavras: **"Minha alma está triste até a morte"**.
 
 Lembrai-vos, Senhor, dos temores, angústias e dores que suportastes em Vosso Corpo delicado antes do suplício da Cruz, quando depois de ter rezado por três vezes, derramando um suor de Sangue, foste traído por Judas, Vosso discípulo, preso pela nação que escolhestes, acusado por testemunhas falsas, injustamente julgado por três juízes na flor de Vossa juventude e no Tempo Solene da Páscoa.
 
@@ -286,4 +286,5 @@ Por essa tão amarga Paixão e pela efusão de Vosso precioso sangue, eu Vos sup
 > "Aquele que disser essas orações pode estar seguro de ser associado ao Supremo Coro dos Anjos e todo aquele que ensinar a alguém, terá assegurado para sempre sua felicidade e seus méritos."
 >
 > "No lugar onde se encontrarem e onde forem recitadas essas orações, Deus aí estará também presente com a Sua Graça."
+
 
