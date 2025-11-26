@@ -2,7 +2,7 @@
 
 ## Promessas de Nosso Senhor
 
-No dia 14 de Junho de 1303 no momento do nascimento de Brígida, o pároco Rasbo, na Suécia, estava rezando pela libertação feliz de Ingeborde. De repente viu-se rodeado de uma luz tão resplandecente da qual saiu a Viergem Mãe e disse: "em Birger nasceu uma menina, sua voz será ouvida pelo mundo inteiro".
+No dia 14 de Junho de 1303 no momento do nascimento de Brígida, o pároco Rasbo, na Suécia, estava rezando pela libertação feliz de Ingeborde. De repente viu-se rodeado de uma luz tão resplandecente da qual saiu a Virgem Mãe e disse: "em Birger nasceu uma menina, sua voz será ouvida pelo mundo inteiro".
 
 Essas orações e promessas foram encontradas num livro impresso em Toulouse em 1740. Escritas e publicadas por Pe. Adrien Parvillens (jesuíta, missionário apostólico na Terra Santa), com a licença e recomendação de propagá-las.
 
@@ -286,6 +286,7 @@ Por essa tão amarga Paixão e pela efusão de Vosso precioso sangue, eu Vos sup
 > "Aquele que disser essas orações pode estar seguro de ser associado ao Supremo Coro dos Anjos e todo aquele que ensinar a alguém, terá assegurado para sempre sua felicidade e seus méritos."
 >
 > "No lugar onde se encontrarem e onde forem recitadas essas orações, Deus aí estará também presente com a Sua Graça."
+
 
 
 
