@@ -38,7 +38,7 @@ Deve-se evitar omitir as orações um dia. Mas se houver um impedimento sério q
 
 Em nome Do Pai, Do Filho e Do Espírito Santo, amém.
 
-> Vinde, Espírito Santo. Enchei os corações dos vossos fiéis e acendei neles o fogo do vosso amor. Enviai o Vosso Espírito e tudo será criado, e renovareis a face da Terra.
+> Vinde, Espírito Santo. Enchei os corações dos vossos fiéis e acendei neles o fogo do vosso amor. Enviai o Vosso Espírito e tudo será criado e renovareis a face da Terra.
 > Oremos: Oh, Deus, que instruístes os corações dos vossos fiéis com a Luz do Espírito Santo, fazei que apreciemos retamente todas as coisas segundo o mesmo Espírito e gozemos sempre da Sua consolação.
 > Por Cristo, Senhor nosso. Amém.
 
@@ -49,19 +49,19 @@ Em nome Do Pai, Do Filho e Do Espírito Santo, amém.
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
-Ó Jesus Cristo, doçura eterna para aqueles que Vos amam, alegria que ultrapassa toda alegria e todo o desejo. Esperança de salvação dos pecadores que declarastes não terdes maior contentamento do que estar entre os homens, até ao ponto de assumir a nossa natureza, na plenitude dos tempos, por amor deles, lembrai-vos dos sofrimentos, desde o primeiro instante de Vossa Conceição e sobretudo durante a Vossa Santa Paixão, assim como havia sido decretado e estabelecido desde toda a eternidade na mente Divina.
+Ó Jesus Cristo, doçura eterna para aqueles que Vos amam, alegria que ultrapassa toda a alegria e todo o desejo. Esperança de salvação dos pecadores que declarastes não terdes maior contentamento do que estar entre os homens, até ao ponto de assumir a nossa natureza, na plenitude dos tempos, por amor deles, lembrai-vos dos sofrimentos, desde o primeiro instante de Vossa Conceição e sobretudo durante a Vossa Santa Paixão, assim como havia sido decretado e estabelecido desde toda a eternidade na mente Divina.
 
-Lembrai-vos, Senhor, que celebrando a Ceia com os vossos discípulos, depois de lhes haverdes lavado os pés, destes-lhes o Vosso Sagrado Corpo e precioso Sangue e consolando-os docemente lhes predissestes Vossa Paixão iminente. Lembrai-Vos da tristeza e da amargura que experimentastes em Vossa alma, como o testemunhastes Vós mesmo por estas palavras: **"Minha alma está triste até a morte"**.
+Lembrai-vos Senhor, que celebrando a Ceia com os vossos discípulos depois de lhes haverdes lavado os pés, destes-lhes o Vosso Sagrado Corpo e precioso Sangue e consolando-os docemente lhes predissestes Vossa Paixão iminente. Lembrai-Vos da tristeza e da amargura que experimentastes em Vossa alma, como o testemunhastes Vós mesmo por estas palavras: **"Minha alma está triste até a morte"**.
 
 Lembrai-vos, Senhor, dos temores, angústias e dores que suportastes em Vosso Corpo delicado antes do suplício da Cruz, quando depois de ter rezado por três vezes, derramando um suor de Sangue, foste traído por Judas, Vosso discípulo, preso pela nação que escolhestes, acusado por testemunhas falsas, injustamente julgado por três juízes na flor de Vossa juventude e no tempo solene da Páscoa.
 
 Lembrai-vos que foste despojado das vossas próprias vestes e revestido das vestes de irrisão; que Vos velaram os olhos e a face, que Vos deram bofetadas, que Vos coroaram de espinhos, que Vos puseram uma cana na mão e que atado à uma coluna foste despedaçado por golpes e acabrunhado de afrontas e ultrajes.
 
-Em memória dessas penas e dores que suportastes antes da Vossa Paixão sobre a Cruz, concedei-me antes da morte, uma verdadeira contrição, a oportunidade de me confessar com pureza de intenção e sinceridade absoluta, uma adequada satisfação e a remissão de todos os meus pecados. Assim seja.
+Em memória dessas penas e dores que suportastes antes da Vossa Paixão sobre a Cruz, concedei-me antes da morte uma verdadeira contrição, a oportunidade de me confessar com pureza de intenção e sinceridade absoluta, uma adequada satisfação e a remissão de todos os meus pecados. Assim seja.
 
 ### Segunda Oração: A flagelação de Jesus
 
@@ -70,11 +70,11 @@ Em memória dessas penas e dores que suportastes antes da Vossa Paixão sobre a 
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
-Ó Jesus, verdadeira liberdade dos Anjos, paraíso de delícias, lembrai-Vos do peso acabrunhador de tristeza que suportastes quando Vossos inimigos, quais leões furiosos, Vos cercaram e, por meio de mil injúrias, escarros, bofetadas, arranhões e outros inauditos suplícios, Vos atormentaram à porfia.
+Ó Jesus, verdadeira liberdade dos Anjos, paraíso de delícias. Lembrai-Vos do peso acabrunhador de tristeza que suportastes quando Vossos inimigos, quais leões furiosos, Vos cercaram e por meio de mil injúrias, escarros, bofetadas, arranhões e outros inauditos suplícios, Vos atormentaram à porfia.
 
 Em consideração desses insultos e desses tormentos, eu Vos suplico, ó meu Salvador, que Vos digneis libertar-me dos meus inimigos visíveis e invisíveis e fazer-me chegar, com Vosso auxílio, à perfeição da salvação eterna. Assim seja.
 
@@ -85,11 +85,11 @@ Em consideração desses insultos e desses tormentos, eu Vos suplico, ó meu Sal
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
-Ó Jesus, Criador do Céu e da Terra, a quem coisa alguma pode conter ou limitar. Vós que tudo abarcais e tendes tudo sob o Vosso poder, lembrai-Vos da dor, repleta de amargura, que experimentastes quando os soldados, pregando na Cruz Vossas Sagradas mãos e Vossos pés tão delicados, transpassaram-nos com grandes e rombudos cravos. E não Vos encontrando no estado em que teriam desejado para dar largas à sua cólera, dilataram as Vossas chagas, exacerbando assim as Vossas dores.
+Ó Jesus, Criador do Céu e da Terra, a quem coisa alguma pode conter ou limitar. Vós que tudo abarcais e tendes tudo sob o Vosso poder, lembrai-Vos da dor, repleta de amargura, que experimentastes quando os soldados pregando na Cruz Vossas Sagradas mãos e Vossos pés tão delicados, transpassaram-nos com grandes e rombudos cravos. E não Vos encontrando no estado em que teriam desejado para dar largas à sua cólera, dilataram as Vossas chagas, exacerbando assim as Vossas dores.
 
 Depois, por uma crueldade inaudita, Vos estenderam sobre a Cruz e Vos viraram de todos os lados, deslocando assim os Vossos membros. Eu Vos conjuro, pela lembrança desta dor que suportastes na Cruz com tanta santidade e mansidão, que Vos digneis conceder-me o Vosso temor e o Vosso amor. Assim seja.
 
@@ -100,7 +100,7 @@ Depois, por uma crueldade inaudita, Vos estenderam sobre a Cruz e Vos viraram de
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
@@ -117,13 +117,13 @@ Por esta grande Misericórdia e em memória desta dor, fazei com que a lembranç
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
 Ó Jesus, espelho do esplendor eterno, lembrai-Vos da tristeza que sentistes, quando contemplando à luz da Vossa divindade a predestinação daqueles que deviam ser salvos pelos méritos de Vossa Santa Paixão, contemplastes ao mesmo tempo a multidão dos réprobos que deviam ser condenados por causa dos seus pecados e lastimastes amargamente a sorte desses infelizes pecadores, perdidos e desesperados.
 
-Por este abismo de compaixão e de piedade e, principalmente, pela bondade que manifestastes ao bom ladrão, dizendo-lhe: **"Hoje estarás Comigo no Paraíso"**, eu Vos suplico, ò doce Jesus, que na hora de minha morte useis de misericórdia para comigo. Assim seja.
+Por este abismo de compaixão e de piedade e, principalmente pela bondade que manifestastes ao bom ladrão, dizendo-lhe: **"Hoje estarás Comigo no Paraíso"**, eu Vos suplico, ò doce Jesus, que na hora de minha morte useis de misericórdia para comigo. Assim seja.
 
 ### Sexta Oração: O testamento de Jesus na Cruz
 
@@ -132,11 +132,11 @@ Por este abismo de compaixão e de piedade e, principalmente, pela bondade que m
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
-Ó Jesus, Rei amável e todo desejável, lembrai-Vos da dor que experimentastes quando nu e como um miserável pregado e levantado na Cruz, foste abandonado por todos os Vossos parentes e amigos, com exceção de Vossa Mãe bem-amada que permaneceu em companhia de São João, muito fielmente junto de Vós na agonia. Lembrai-vos de que os entregastes um ao outro, dizendo: **"Mulher, eis aí o teu filho"** e a João: **"Eis aí a tua Mãe"**.
+Ó Jesus, Rei amável e todo desejável, lembrai-Vos da dor que experimentastes quando nu e como um miserável pregado e levantado na Cruz, foste abandonado por todos os Vossos parentes e amigos - com exceção de Vossa Mãe bem-amada que permaneceu em companhia de São João, muito fielmente junto de Vós na agonia. Lembrai-vos de que os entregastes um ao outro, dizendo: **"Mulher, eis aí o teu filho"** e a João: **"Eis aí a tua Mãe"**.
 
 Eu Vos suplico, ó meu Salvador, pela espada de dor que então transpassou a alma de Vossa Santa Mãe, que tenhais compaixão de mim em todas as minhas angústias e tribulações, tanto corporais como espirituais e que Vos digneis assistir-me nas provações que me sobrevierem, sobretudo na hora da minha morte. Assim seja.
 
@@ -147,13 +147,13 @@ Eu Vos suplico, ó meu Salvador, pela espada de dor que então transpassou a alm
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
-Ó Jesus, fonte inexaurível de piedade, que por uma profunda ternura de amor dissestes sobre a Cruz: **"Tenho sede!"**, mas sede da salvação do gênero humano.
+Ó Jesus, fonte inexaurível de piedade, que por uma profunda ternura de amor dissestes sobre a Cruz: **"Tenho sede!"** - mas sede da salvação do gênero humano.
 
-Eu vos suplico, ó meu Salvador, que vos digneis estimular o desejo que meu coração experiemnta de tender à perfeição em todas as minhas obras e extinguir, por completo em mim a concupiscência carnal e o ardor dos desejos mundanos. Assim seja.
+Eu vos suplico, ó meu Salvador, que vos digneis estimular o desejo que meu coração experimenta de tender à perfeição em todas as minhas obras e extinguir, por completo em mim a concupiscência carnal e o ardor dos desejos mundanos. Assim seja.
 
 ### Oitava Oração: A bebida de Cristo
 
@@ -162,11 +162,11 @@ Eu vos suplico, ó meu Salvador, que vos digneis estimular o desejo que meu cora
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
-Ó Jesus, doçura dos corações, suavidade dos espíritos, pelo amargo sabor do fel e do vinagre que provastes sobre a Cruz por amor de todos nós, concedei-me a graça de receber dignamente o Vosso Corpo e Vosso preciosíssimo Sangue durante a minha vida e na hora da minha morte, afim de que sirvam de remédio e de consolo para minha alma. Assim seja.
+Ó Jesus, doçura dos corações, suavidade dos espíritos. Pelo amargo sabor do fel e do vinagre que provastes sobre a Cruz por amor de todos nós, concedei-me a graça de receber dignamente o Vosso Corpo e Vosso preciosíssimo Sangue durante a minha vida e na hora da minha morte, afim de que sirvam de remédio e de consolo para minha alma. Assim seja.
 
 ### Nona Oração: O clamor de angústia de Cristo na Cruz
 
@@ -175,7 +175,7 @@ Eu vos suplico, ó meu Salvador, que vos digneis estimular o desejo que meu cora
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
@@ -190,13 +190,13 @@ Por essa angústia eu Vos suplico, ó meu Salvador, que não me abandoneis nas a
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
 Ó Jesus, que sois em todas as coisas começo e fim, vida e virtude, lembrai-Vos de que por nós foste mergulhado num abismo de dores, da planta dos pés até o alto da cabeça.
 
-Em consideração da extensão de Vossas chagas, ensinai-me a guardar Vossos Mandamentos, mediante uma sincera caridade, Mandamentos esses que são caminho espaçoso e agradável para aqueles que vos amam. Assim seja.
+Em consideração da extensão de Vossas chagas, ensinai-me a guardar Vossos Mandamentos, mediante uma sincera caridade - Mandamentos esses que são caminho espaçoso e agradável para aqueles que vos amam. Assim seja.
 
 ### Décima Primeira Oração: As Chagas profundas de Cristo
 
@@ -205,7 +205,7 @@ Em consideração da extensão de Vossas chagas, ensinai-me a guardar Vossos Man
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
@@ -220,17 +220,17 @@ Suplico-Vos também esconder-me de Vossa Face irritada, ocultando-me dentro de V
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
-Ó Jesus, espelho de verdade, sinal de unidade, laço de caridade, lembri-Vos dos inumeráveis ferimentos que recebestes, desde a cabeça até os pés, ao ponto de ficardes dilacerado e coberto pela púrpura de Vosso Sangue adorável.
+Ó Jesus, espelho de verdade, sinal de unidade, laço de caridade. Lembrai-Vos dos inumeráveis ferimentos que recebestes, desde a cabeça até os pés, ao ponto de ficardes dilacerado e coberto pela púrpura de Vosso Sangue adorável.
 
 Ó quão grande e universal foi a dor que sofrestes em Vossa Carne Virginal por nosso amor! Dulcíssimo Jesus, que poderíeis fazer por nós que não o houvésseis feito? Eu Vos conjuro, ó meu Salvador, que vos digneis imprimir com Vosso precioso Sangue, todas as Vossas chagas no meu coração, afim de que eu relembre sem cessar, Vossas dores e Vosso amor.
 
 Que pela fiel lembrança de Vossa Paixão, o fruto dos Vossos sofrimentos seja renovado em minha alma e que Vosso amor vá crescendo em mim cada dia mais, até que eu me encontre finalmente convosco, que sois o tesouro de todos os bens e a fonte de todas as alegrias.
 
-Ó dulcíssimo Jesus, concedei-me poder gozer de semelhante ventura na vida eterna. Assim seja.
+Ó dulcíssimo Jesus, concedei-me poder gozar de semelhante ventura na vida eterna. Assim seja.
 
 ### Décima Terceira Oração: A última angústia de Cristo
 
@@ -239,13 +239,13 @@ Que pela fiel lembrança de Vossa Paixão, o fruto dos Vossos sofrimentos seja r
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
-Ó Jesus, fortíssimo Leão, Rei imortal e invencível. Lembrai-Vos da dor que Vos acabrunhou quando sentistes esgotadas todas as Vossas forças, tanto do Coração quanto do Corpo, e inclinastes a cabeça, dizendo: **"Tudo está consumado!"**
+Ó Jesus, fortíssimo Leão, Rei imortal e invencível. Lembrai-Vos da dor que Vos acabrunhou quando sentistes esgotadas todas as Vossas forças, tanto do Coração como do Corpo, e inclinastes a cabeça dizendo: **"Tudo está consumado!"**
 
-Por esta angústia e por esta dor, eu Vos suplico Senhor Jesus, que tenhais piedade de mim quando soar a minha última hora e minha alma estiver amargurada e meu espírito cheio e aflição . Assim seja.
+Por esta angústia e por esta dor, eu Vos suplico Senhor Jesus, que tenhais piedade de mim quando soar a minha última hora e minha alma estiver amargurada e meu espírito cheio e aflição. Assim seja.
 
 ### Décima Quarta Oração: A morte de Cristo
 
@@ -254,7 +254,7 @@ Por esta angústia e por esta dor, eu Vos suplico Senhor Jesus, que tenhais pied
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
@@ -271,7 +271,7 @@ Na hora da minha morte, recebei, eu Vos peço, minha alma peregrina e exilada, q
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
@@ -281,10 +281,11 @@ Por essa tão amarga Paixão e pela efusão de Vosso precioso sangue, eu Vos sup
 
 ### Oração Final
 
-Ó doce Jesus, vulnerai o meu coração afim de que lágrimas de arrependimento, de compulsão e de amor noite e dia me sirvam de alimento. Convertei-me inteiramente à Vós. Que meu coração Vos sirva de perpétua habitação. Que minha conduta Vos seja agradável e que o fim de minha vida seja de tal modo edificante que eu possa ser admitdo no Vosso Paraíso, onde com todos os Vossos Santos, hei de vos louvar para sempre. Assim Seja.
+Ó doce Jesus, vulnerai o meu coração afim de que lágrimas de arrependimento, de compulsão e de amor noite e dia me sirvam de alimento. Convertei-me inteiramente à Vós. Que meu coração Vos sirva de perpétua habitação. Que minha conduta Vos seja agradável e que o fim de minha vida seja de tal modo edificante que eu possa ser admitido no Vosso Paraíso, onde com todos os Vossos Santos, hei de vos louvar para sempre. Assim Seja.
 
 > "Aquele que disser essas orações pode estar seguro de ser associado ao Supremo Coro dos Anjos e todo aquele que ensinar a alguém, terá assegurado para sempre sua felicidade e seus méritos."
 >
 > "No lugar onde se encontrarem e onde forem recitadas essas orações, Deus aí estará também presente com a Sua Graça."
+
 
 
