@@ -10,7 +10,7 @@ O Papa Pio IX tomou conhecimento destas orações. Ele as confirmou em 31 de Mai
 
 Há muito tempo, Santa Brígida tinha pedido ao Senhor para lhe revelar o número de pancadas sofridas em Sua dolorosa Paixão. Um dia apareceu O Salvador e lhe disse:
 
-> *"Recebi no meu corpo 5480 pancadas. Qerendo venerá-las, reze cada dia durante um ano 15 Pai-nossos, 15 Ave-Marias e mais as orações seguintes."*
+> *"Recebi no meu corpo 5480 pancadas. Querendo venerá-las, reze cada dia durante um ano 15 Pai-nossos, 15 Ave-Marias e mais as orações seguintes."*
 
 Jesus ensinou a Santa Brígida as orações.
 
@@ -286,4 +286,5 @@ Por essa tão amarga Paixão e pela efusão de Vosso precioso sangue, eu Vos sup
 > "Aquele que disser essas orações pode estar seguro de ser associado ao Supremo Coro dos Anjos e todo aquele que ensinar a alguém, terá assegurado para sempre sua felicidade e seus méritos."
 >
 > "No lugar onde se encontrarem e onde forem recitadas essas orações, Deus aí estará também presente com a Sua Graça."
+
 
