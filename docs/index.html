@@ -1,0 +1,1365 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+		<title>README</title>
+		<style>
+			/* PDF Specific */
+
+@media print {
+  body {
+    min-width: initial;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+}
+
+/* General */
+
+.octicon {
+  display: inline-block;
+  fill: currentColor;
+  vertical-align: text-bottom;
+}
+
+.anchor {
+  float: left;
+  line-height: 1;
+  margin-left: -20px;
+  padding-right: 4px;
+}
+
+.anchor:focus {
+  outline: none;
+}
+
+h1 .octicon-link,
+h2 .octicon-link,
+h3 .octicon-link,
+h4 .octicon-link,
+h5 .octicon-link,
+h6 .octicon-link {
+  color: #1b1f23;
+  vertical-align: middle;
+  visibility: hidden;
+}
+
+h1:hover .anchor,
+h2:hover .anchor,
+h3:hover .anchor,
+h4:hover .anchor,
+h5:hover .anchor,
+h6:hover .anchor {
+  text-decoration: none;
+}
+
+h1:hover .anchor .octicon-link,
+h2:hover .anchor .octicon-link,
+h3:hover .anchor .octicon-link,
+h4:hover .anchor .octicon-link,
+h5:hover .anchor .octicon-link,
+h6:hover .anchor .octicon-link {
+  visibility: visible;
+}
+
+h1:hover .anchor .octicon-link:before,
+h2:hover .anchor .octicon-link:before,
+h3:hover .anchor .octicon-link:before,
+h4:hover .anchor .octicon-link:before,
+h5:hover .anchor .octicon-link:before,
+h6:hover .anchor .octicon-link:before {
+  width: 16px;
+  height: 16px;
+  content: ' ';
+  display: inline-block;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true'%3E%3Cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z'%3E%3C/path%3E%3C/svg%3E");
+}
+
+body {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -webkit-print-color-adjust: exact;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+    sans-serif, Apple Color Emoji, Segoe UI Emoji;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #24292e;
+  word-wrap: break-word;
+  box-sizing: border-box;
+  min-width: 200px;
+  max-width: 980px;
+  margin: 1rem auto;
+}
+
+details {
+  display: block;
+}
+
+summary {
+  display: list-item;
+}
+
+a {
+  background-color: initial;
+}
+
+a:active,
+a:hover {
+  outline-width: 0;
+}
+
+strong {
+  font-weight: inherit;
+  font-weight: bolder;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+img {
+  border-style: none;
+}
+
+code,
+kbd,
+pre {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+hr {
+  box-sizing: initial;
+  height: 0;
+  overflow: visible;
+}
+
+input {
+  font: inherit;
+  margin: 0;
+}
+
+input {
+  overflow: visible;
+}
+
+[type='checkbox'] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+input {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+strong {
+  font-weight: 600;
+}
+
+hr {
+  height: 0;
+  margin: 15px 0;
+  overflow: hidden;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid #dfe2e5;
+}
+
+hr:after,
+hr:before {
+  display: table;
+  content: '';
+}
+
+hr:after {
+  clear: both;
+}
+
+table {
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  padding: 0;
+}
+
+details summary {
+  cursor: pointer;
+}
+
+kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font: 11px SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+  line-height: 10px;
+  color: #444d56;
+  vertical-align: middle;
+  background-color: #fafbfc;
+  border: 1px solid #d1d5da;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #d1d5da;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h1,
+h2 {
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h3,
+h4 {
+  font-weight: 600;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h5,
+h6 {
+  font-weight: 600;
+}
+
+h6 {
+  font-size: 12px;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+blockquote {
+  margin: 0;
+}
+
+ol,
+ul {
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+ol ol,
+ul ol {
+  list-style-type: lower-roman;
+}
+
+ol ol ol,
+ol ul ol,
+ul ol ol,
+ul ul ol {
+  list-style-type: lower-alpha;
+}
+
+dd {
+  margin-left: 0;
+}
+
+code,
+pre {
+  font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+  font-size: 12px;
+}
+
+pre {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button {
+  margin: 0;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+:checked + .radio-label {
+  position: relative;
+  z-index: 1;
+  border-color: #0366d6;
+}
+
+.border {
+  border: 1px solid #e1e4e8 !important;
+}
+
+.border-0 {
+  border: 0 !important;
+}
+
+.border-bottom {
+  border-bottom: 1px solid #e1e4e8 !important;
+}
+
+.rounded-1 {
+  border-radius: 3px !important;
+}
+
+.bg-white {
+  background-color: #fff !important;
+}
+
+.bg-gray-light {
+  background-color: #fafbfc !important;
+}
+
+.text-gray-light {
+  color: #6a737d !important;
+}
+
+.mb-0 {
+  margin-bottom: 0 !important;
+}
+
+.my-2 {
+  margin-top: 8px !important;
+  margin-bottom: 8px !important;
+}
+
+.pl-0 {
+  padding-left: 0 !important;
+}
+
+.py-0 {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.pl-1 {
+  padding-left: 4px !important;
+}
+
+.pl-2 {
+  padding-left: 8px !important;
+}
+
+.py-2 {
+  padding-top: 8px !important;
+  padding-bottom: 8px !important;
+}
+
+.pl-3,
+.px-3 {
+  padding-left: 16px !important;
+}
+
+.px-3 {
+  padding-right: 16px !important;
+}
+
+.pl-4 {
+  padding-left: 24px !important;
+}
+
+.pl-5 {
+  padding-left: 32px !important;
+}
+
+.pl-6 {
+  padding-left: 40px !important;
+}
+
+.f6 {
+  font-size: 12px !important;
+}
+
+.lh-condensed {
+  line-height: 1.25 !important;
+}
+
+.text-bold {
+  font-weight: 600 !important;
+}
+
+.pl-c {
+  color: #6a737d;
+}
+
+.pl-c1,
+.pl-s .pl-v {
+  color: #005cc5;
+}
+
+.pl-e,
+.pl-en {
+  color: #6f42c1;
+}
+
+.pl-s .pl-s1,
+.pl-smi {
+  color: #24292e;
+}
+
+.pl-ent {
+  color: #22863a;
+}
+
+.pl-k {
+  color: #d73a49;
+}
+
+.pl-pds,
+.pl-s,
+.pl-s .pl-pse .pl-s1,
+.pl-sr,
+.pl-sr .pl-cce,
+.pl-sr .pl-sra,
+.pl-sr .pl-sre {
+  color: #032f62;
+}
+
+.pl-smw,
+.pl-v {
+  color: #e36209;
+}
+
+.pl-bu {
+  color: #b31d28;
+}
+
+.pl-ii {
+  color: #fafbfc;
+  background-color: #b31d28;
+}
+
+.pl-c2 {
+  color: #fafbfc;
+  background-color: #d73a49;
+}
+
+.pl-c2:before {
+  content: '^M';
+}
+
+.pl-sr .pl-cce {
+  font-weight: 700;
+  color: #22863a;
+}
+
+.pl-ml {
+  color: #735c0f;
+}
+
+.pl-mh,
+.pl-mh .pl-en,
+.pl-ms {
+  font-weight: 700;
+  color: #005cc5;
+}
+
+.pl-mi {
+  font-style: italic;
+  color: #24292e;
+}
+
+.pl-mb {
+  font-weight: 700;
+  color: #24292e;
+}
+
+.pl-md {
+  color: #b31d28;
+  background-color: #ffeef0;
+}
+
+.pl-mi1 {
+  color: #22863a;
+  background-color: #f0fff4;
+}
+
+.pl-mc {
+  color: #e36209;
+  background-color: #ffebda;
+}
+
+.pl-mi2 {
+  color: #f6f8fa;
+  background-color: #005cc5;
+}
+
+.pl-mdr {
+  font-weight: 700;
+  color: #6f42c1;
+}
+
+.pl-ba {
+  color: #586069;
+}
+
+.pl-sg {
+  color: #959da5;
+}
+
+.pl-corl {
+  text-decoration: underline;
+  color: #032f62;
+}
+
+.mb-0 {
+  margin-bottom: 0 !important;
+}
+
+.my-2 {
+  margin-bottom: 8px !important;
+}
+
+.my-2 {
+  margin-top: 8px !important;
+}
+
+.pl-0 {
+  padding-left: 0 !important;
+}
+
+.py-0 {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.pl-1 {
+  padding-left: 4px !important;
+}
+
+.pl-2 {
+  padding-left: 8px !important;
+}
+
+.py-2 {
+  padding-top: 8px !important;
+  padding-bottom: 8px !important;
+}
+
+.pl-3 {
+  padding-left: 16px !important;
+}
+
+.pl-4 {
+  padding-left: 24px !important;
+}
+
+.pl-5 {
+  padding-left: 32px !important;
+}
+
+.pl-6 {
+  padding-left: 40px !important;
+}
+
+.pl-7 {
+  padding-left: 48px !important;
+}
+
+.pl-8 {
+  padding-left: 64px !important;
+}
+
+.pl-9 {
+  padding-left: 80px !important;
+}
+
+.pl-10 {
+  padding-left: 96px !important;
+}
+
+.pl-11 {
+  padding-left: 112px !important;
+}
+
+.pl-12 {
+  padding-left: 128px !important;
+}
+
+hr {
+  border-bottom-color: #eee;
+}
+
+kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font: 11px SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+  line-height: 10px;
+  color: #444d56;
+  vertical-align: middle;
+  background-color: #fafbfc;
+  border: 1px solid #d1d5da;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #d1d5da;
+}
+
+body:after,
+body:before {
+  display: table;
+  content: '';
+}
+
+body:after {
+  clear: both;
+}
+
+body > :first-child {
+  margin-top: 0 !important;
+}
+
+body > :last-child {
+  margin-bottom: 0 !important;
+}
+
+a:not([href]) {
+  color: inherit;
+  text-decoration: none;
+}
+
+blockquote,
+details,
+dl,
+ol,
+p,
+pre,
+table,
+ul {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+hr {
+  height: 0.25em;
+  padding: 0;
+  margin: 24px 0;
+  background-color: #e1e4e8;
+  border: 0;
+}
+
+blockquote {
+  padding: 0 1em;
+  color: #6a737d;
+  border-left: 0.25em solid #dfe2e5;
+}
+
+blockquote > :first-child {
+  margin-top: 0;
+}
+
+blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 24px;
+  margin-bottom: 16px;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h1,
+h2 {
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #eaecef;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.25em;
+}
+
+h4 {
+  font-size: 1em;
+}
+
+h5 {
+  font-size: 0.875em;
+}
+
+h6 {
+  font-size: 0.85em;
+  color: #6a737d;
+}
+
+ol,
+ul {
+  padding-left: 2em;
+}
+
+ol ol,
+ol ul,
+ul ol,
+ul ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+li {
+  word-wrap: break-all;
+}
+
+li > p {
+  margin-top: 16px;
+}
+
+li + li {
+  margin-top: 0.25em;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  padding: 0;
+  margin-top: 16px;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: 600;
+}
+
+dl dd {
+  padding: 0 16px;
+  margin-bottom: 16px;
+}
+
+table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+}
+
+table th {
+  font-weight: 600;
+}
+
+table td,
+table th {
+  padding: 6px 13px;
+  border: 1px solid #dfe2e5;
+}
+
+table tr {
+  background-color: #fff;
+  border-top: 1px solid #c6cbd1;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f6f8fa;
+}
+
+img {
+  max-width: 80%;
+  box-sizing: initial;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fff;
+}
+
+code {
+  padding: 0.2em 0.4em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(27, 31, 35, 0.05);
+  border-radius: 3px;
+}
+
+pre {
+  word-wrap: normal;
+}
+
+pre > code {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  word-break: normal;
+  white-space: pre;
+  background: transparent;
+  border: 0;
+}
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  color: #333;
+  -webkit-print-color-adjust: exact;
+  background: #f8f8f8;
+}
+
+.hljs pre {
+  margin-bottom: 0;
+  word-break: normal;
+}
+
+.hljs pre,
+pre {
+  padding: 16px;
+  overflow: auto;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #f6f8fa;
+  -webkit-print-color-adjust: exact;
+
+  border-radius: 3px;
+}
+
+pre code {
+  display: inline;
+  max-width: auto;
+  padding: 0;
+  margin: 0;
+  overflow: visible;
+  line-height: inherit;
+  word-wrap: normal;
+  background-color: initial;
+  border: 0;
+}
+
+.commit-tease-sha {
+  display: inline-block;
+  font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+  font-size: 90%;
+  color: #444d56;
+}
+
+.full-commit .btn-outline:not(:disabled):hover {
+  color: #005cc5;
+  border-color: #005cc5;
+}
+
+.blob-wrapper {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.blob-wrapper-embedded {
+  max-height: 240px;
+  overflow-y: auto;
+}
+
+.blob-num {
+  width: 1%;
+  min-width: 50px;
+  padding-right: 10px;
+  padding-left: 10px;
+  font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+  font-size: 12px;
+  line-height: 20px;
+  color: rgba(27, 31, 35, 0.3);
+  text-align: right;
+  white-space: nowrap;
+  vertical-align: top;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.blob-num:hover {
+  color: rgba(27, 31, 35, 0.6);
+}
+
+.blob-num:before {
+  content: attr(data-line-number);
+}
+
+.blob-code {
+  position: relative;
+  padding-right: 10px;
+  padding-left: 10px;
+  line-height: 20px;
+  vertical-align: top;
+}
+
+.blob-code-inner {
+  overflow: visible;
+  font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+  font-size: 12px;
+  color: #24292e;
+  word-wrap: normal;
+  white-space: pre;
+}
+
+.pl-token.active,
+.pl-token:hover {
+  cursor: pointer;
+  background: #ffea7f;
+}
+
+.tab-size[data-tab-size='1'] {
+  -moz-tab-size: 1;
+  tab-size: 1;
+}
+
+.tab-size[data-tab-size='2'] {
+  -moz-tab-size: 2;
+  tab-size: 2;
+}
+
+.tab-size[data-tab-size='3'] {
+  -moz-tab-size: 3;
+  tab-size: 3;
+}
+
+.tab-size[data-tab-size='4'] {
+  -moz-tab-size: 4;
+  tab-size: 4;
+}
+
+.tab-size[data-tab-size='5'] {
+  -moz-tab-size: 5;
+  tab-size: 5;
+}
+
+.tab-size[data-tab-size='6'] {
+  -moz-tab-size: 6;
+  tab-size: 6;
+}
+
+.tab-size[data-tab-size='7'] {
+  -moz-tab-size: 7;
+  tab-size: 7;
+}
+
+.tab-size[data-tab-size='8'] {
+  -moz-tab-size: 8;
+  tab-size: 8;
+}
+
+.tab-size[data-tab-size='9'] {
+  -moz-tab-size: 9;
+  tab-size: 9;
+}
+
+.tab-size[data-tab-size='10'] {
+  -moz-tab-size: 10;
+  tab-size: 10;
+}
+
+.tab-size[data-tab-size='11'] {
+  -moz-tab-size: 11;
+  tab-size: 11;
+}
+
+.tab-size[data-tab-size='12'] {
+  -moz-tab-size: 12;
+  tab-size: 12;
+}
+
+.task-list-item {
+  list-style-type: none;
+}
+
+.task-list-item + .task-list-item {
+  margin-top: 3px;
+}
+
+.task-list-item input {
+  margin: 0 0.2em 0.25em -1.6em;
+  vertical-align: middle;
+}
+/*
+github.com style (c) Vasily Polovnyov <vast@whiteants.net>
+*/
+  
+  .hljs-comment,
+  .hljs-quote {
+    color: #998;
+    font-style: italic;
+  }
+  
+  .hljs-keyword,
+  .hljs-selector-tag,
+  .hljs-subst {
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .hljs-number,
+  .hljs-literal,
+  .hljs-variable,
+  .hljs-template-variable,
+  .hljs-tag .hljs-attr {
+    color: #008080;
+  }
+  
+  .hljs-string,
+  .hljs-doctag {
+    color: #d14;
+  }
+  
+  .hljs-title,
+  .hljs-section,
+  .hljs-selector-id {
+    color: #900;
+    font-weight: bold;
+  }
+  
+  .hljs-subst {
+    font-weight: normal;
+  }
+  
+  .hljs-type,
+  .hljs-class .hljs-title {
+    color: #458;
+    font-weight: bold;
+  }
+  
+  .hljs-tag,
+  .hljs-name,
+  .hljs-attribute {
+    color: #000080;
+    font-weight: normal;
+  }
+  
+  .hljs-regexp,
+  .hljs-link {
+    color: #009926;
+  }
+  
+  .hljs-symbol,
+  .hljs-bullet {
+    color: #990073;
+  }
+  
+  .hljs-built_in,
+  .hljs-builtin-name {
+    color: #0086b3;
+  }
+  
+  .hljs-meta {
+    color: #999;
+    font-weight: bold;
+  }
+  
+  .hljs-deletion {
+    background: #fdd;
+  }
+  
+  .hljs-addition {
+    background: #dfd;
+  }
+  
+  .hljs-emphasis {
+    font-style: italic;
+  }
+  
+  .hljs-strong {
+    font-weight: bold;
+  }
+		</style>
+	</head>
+	<body>
+		<nav id="table-of-contents">
+			
+		</nav>
+		<main>
+			<h1 id="as-quinze-ora%C3%A7%C3%B5es-de-santa-br%C3%ADgida" tabindex="-1"><a class="anchor" href="#as-quinze-ora%C3%A7%C3%B5es-de-santa-br%C3%ADgida" aria-hidden="true"><span class="octicon octicon-link"></span></a> As Quinze Orações de Santa Brígida</h1>
+<h2 id="promessas-de-nosso-senhor" tabindex="-1"><a class="anchor" href="#promessas-de-nosso-senhor" aria-hidden="true"><span class="octicon octicon-link"></span></a> Promessas de Nosso Senhor</h2>
+<p>No dia 14 de Junho de 1303 no momento do nascimento de Brígida, o pároco Rasbo, na Suécia, estava rezando pela libertação feliz de Ingeborde. De repente viu-se rodeado de uma luz tão resplandecente da qual saiu a Virgem Mãe e disse: <em>"Em Birger nasceu uma menina, sua voz será ouvida pelo mundo inteiro"</em>.</p>
+<p>Essas orações e promessas foram encontradas num livro impresso em Toulouse em 1740. Escritas e publicadas por Pe. Adrien Parvillens (jesuíta, missionário apostólico na Terra Santa), com a licença e recomendação de propagá-las.</p>
+<p>O Papa Pio IX tomou conhecimento destas orações. Ele as confirmou em 31 de Maio de 1862 e as julgou verdadeiras, pois causam benefícios para o bem de todas as almas. Este reconhecimento do Papa foi confirmado por Deus pela realização das promessas com todas as pessoas que tinham rezado  as orações e por inúmeros fatos e sinais, pelos quais Deus queria mostrar que vinham realmente Dele.</p>
+<p>Há muito tempo, Santa Brígida tinha pedido ao Senhor para lhe revelar o número de pancadas sofridas em Sua dolorosa Paixão. Um dia apareceu O Salvador e lhe disse:</p>
+<blockquote>
+<p><em>"Recebi no meu corpo 5480 pancadas. Querendo venerá-las, reze cada dia durante um ano 15 Pai-nossos, 15 Ave-Marias e mais as orações seguintes."</em></p>
+</blockquote>
+<p>Jesus ensinou a Santa Brígida as orações.</p>
+<blockquote>
+<p><em>"Passado este ano, tens venerado cada uma destas 5480 feridas."</em></p>
+</blockquote>
+<p>E O Salvador disse então:</p>
+<blockquote>
+<p><em>"Quem rezar essas orações diariamente durante um ano, livrará do purgatório 15 almas do seu parentesco; 15 almas justas do seu parentesco receberão a graça da perseverança e 15 pecadores do parentesco se converter-se-ão.</em></p>
+<p><em>A própria pessoa que reza alcançará os primeiros graus da perfeição e quinze dias antes da sua morte dar-lhe-ei o Meu precioso Corpo, para ficar preservada da fome eterna e dar-lhe-ei de beber o Meu precioso Sangue, para ficar preservada da sede eterna. E 15 dias antes da sua morte receberá profunda contrição e grande conhecimento de seus pecados. Colocarei o sinal da Minha Cruz vitoriosa entre ela e o maligno, para que fique preservada de suas ciladas. Antes da sua morte a visitarei com minha bem-amada Mãe, receberei a alma com clemência e introduzi-la-ei no gozo eterno.</em></p>
+<p><em>No céu receberá o conhecimento especial da Minha Divindade, que não transmitirei àqueles que não rezam estas orações."</em></p>
+</blockquote>
+<p>Mesmo que alguém tivesse passado 30 anos em pecado mortal, logo que reza estas orações ou faz o propósito de rezálas, o Senhor perdoar-lhe-á todos os pecados e defender-lhe-á contra todas as más tentações. Ele protege os seus cinco sentidos e o preserva de uma morte repentina e imprevista, e a sua alma de uma condenação eterna. E tudo que seja de Deus e da Santíssma Virgem ser-lhe-á concedido.</p>
+<p>Quem também ensinar estas orações a outros, receberá alegrias e recompensas eternas. No lugar onde se rezam estas orações, Deus está presente com a sua graça. Todos estes privilégios foram prometidos pelo Salvador Crucificado à Santa Brígida. O tal crucifixo ainda hoje está sendo venerado na Igreja de São Paulo, em Roma.</p>
+<p>Todos esses privilégios foram prometidos à Santa Brígida por Nosso Senhor Crucificado com a condição de que as citadas orações fossem recitadas diariamente. São igualmente prometidos a todos quantos recitarem devotamente, durante um ano inteiro.</p>
+<p>Deve-se evitar omitir as orações um dia. Mas se houver um impedimento sério que as orações de modo nenhum possam ser rezadas, não se perdem as graças ligadas nelas, quando as 5480 orações forem rezadas durante o ano. Devem ser rezadas com muita devoção, pensando naquilo que se reza. Poderão ser rezadas ao fazer a Via Sacra.</p>
+<h2 id="as-15-ora%C3%A7%C3%B5es" tabindex="-1"><a class="anchor" href="#as-15-ora%C3%A7%C3%B5es" aria-hidden="true"><span class="octicon octicon-link"></span></a> As 15 Orações</h2>
+<h3 id="sinal-da-cruz" tabindex="-1"><a class="anchor" href="#sinal-da-cruz" aria-hidden="true"><span class="octicon octicon-link"></span></a> Sinal da Cruz +</h3>
+<p>Em nome Do Pai, Do Filho e Do Espírito Santo, amém.</p>
+<blockquote>
+<p>Vinde, Espírito Santo. Enchei os corações dos vossos fiéis e acendei neles o fogo do vosso amor. Enviai o Vosso Espírito e tudo será criado e renovareis a face da Terra.
+Oremos: Oh, Deus, que instruístes os corações dos vossos fiéis com a Luz do Espírito Santo, fazei que apreciemos retamente todas as coisas segundo o mesmo Espírito e gozemos sempre da Sua consolação.
+Por Cristo, Senhor nosso. Amém.</p>
+</blockquote>
+<h3 id="primeira-ora%C3%A7%C3%A3o-uma-vis%C3%A3o-geral-do-sofrimento-de-cristo-at%C3%A9-a-flagela%C3%A7%C3%A3o" tabindex="-1"><a class="anchor" href="#primeira-ora%C3%A7%C3%A3o-uma-vis%C3%A3o-geral-do-sofrimento-de-cristo-at%C3%A9-a-flagela%C3%A7%C3%A3o" aria-hidden="true"><span class="octicon octicon-link"></span></a> Primeira Oração: Uma visão geral do sofrimento de Cristo até a flagelação</h3>
+<!-- markdownlint-disable MD028 -->
+<blockquote>
+<p>Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.</p>
+</blockquote>
+<blockquote>
+<p>Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.</p>
+</blockquote>
+<!-- markdownlint-enable MD028 -->
+<p>Ó Jesus Cristo, doçura eterna para aqueles que Vos amam, alegria que ultrapassa toda a alegria e todo o desejo. Esperança de salvação dos pecadores que declarastes não terdes maior contentamento do que estar entre os homens, até ao ponto de assumir a nossa natureza, na plenitude dos tempos, por amor deles, lembrai-vos dos sofrimentos, desde o primeiro instante de Vossa Conceição e sobretudo durante a Vossa Santa Paixão, assim como havia sido decretado e estabelecido desde toda a eternidade na mente Divina.</p>
+<p>Lembrai-vos Senhor, que celebrando a Ceia com os vossos discípulos depois de lhes haverdes lavado os pés, destes-lhes o Vosso Sagrado Corpo e precioso Sangue e consolando-os docemente lhes predissestes Vossa Paixão iminente. Lembrai-Vos da tristeza e da amargura que experimentastes em Vossa alma, como o testemunhastes Vós mesmo por estas palavras: <strong>"Minha alma está triste até a morte"</strong>.</p>
+<p>Lembrai-vos, Senhor, dos temores, angústias e dores que suportastes em Vosso Corpo delicado antes do suplício da Cruz, quando depois de ter rezado por três vezes, derramando um suor de Sangue, foste traído por Judas, Vosso discípulo, preso pela nação que escolhestes, acusado por testemunhas falsas, injustamente julgado por três juízes na flor de Vossa juventude e no tempo solene da Páscoa.</p>
+<p>Lembrai-vos que foste despojado das vossas próprias vestes e revestido das vestes de irrisão; que Vos velaram os olhos e a face, que Vos deram bofetadas, que Vos coroaram de espinhos, que Vos puseram uma cana na mão e que atado à uma coluna foste despedaçado por golpes e acabrunhado de afrontas e ultrajes.</p>
+<p>Em memória dessas penas e dores que suportastes antes da Vossa Paixão sobre a Cruz, concedei-me antes da morte uma verdadeira contrição, a oportunidade de me confessar com pureza de intenção e sinceridade absoluta, uma adequada satisfação e a remissão de todos os meus pecados. Assim seja.</p>
+<h3 id="segunda-ora%C3%A7%C3%A3o-a-flagela%C3%A7%C3%A3o-de-jesus" tabindex="-1"><a class="anchor" href="#segunda-ora%C3%A7%C3%A3o-a-flagela%C3%A7%C3%A3o-de-jesus" aria-hidden="true"><span class="octicon octicon-link"></span></a> Segunda Oração: A flagelação de Jesus</h3>
+<!-- markdownlint-disable MD028 -->
+<blockquote>
+<p>Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.</p>
+</blockquote>
+<blockquote>
+<p>Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.</p>
+</blockquote>
+<!-- markdownlint-enable MD028 -->
+<p>Ó Jesus, verdadeira liberdade dos Anjos, paraíso de delícias. Lembrai-Vos do peso acabrunhador de tristeza que suportastes quando Vossos inimigos, quais leões furiosos, Vos cercaram e por meio de mil injúrias, escarros, bofetadas, arranhões e outros inauditos suplícios, Vos atormentaram à porfia.</p>
+<p>Em consideração desses insultos e desses tormentos, eu Vos suplico, ó meu Salvador, que Vos digneis libertar-me dos meus inimigos visíveis e invisíveis e fazer-me chegar, com Vosso auxílio, à perfeição da salvação eterna. Assim seja.</p>
+<h3 id="terceira-ora%C3%A7%C3%A3o-a-crucifica%C3%A7%C3%A3o-de-cristo" tabindex="-1"><a class="anchor" href="#terceira-ora%C3%A7%C3%A3o-a-crucifica%C3%A7%C3%A3o-de-cristo" aria-hidden="true"><span class="octicon octicon-link"></span></a> Terceira Oração: A crucificação de Cristo</h3>
+<!-- markdownlint-disable MD028 -->
+<blockquote>
+<p>Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.</p>
+</blockquote>
+<blockquote>
+<p>Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.</p>
+</blockquote>
+<!-- markdownlint-enable MD028 -->
+<p>Ó Jesus, Criador do Céu e da Terra, a quem coisa alguma pode conter ou limitar. Vós que tudo abarcais e tendes tudo sob o Vosso poder, lembrai-Vos da dor, repleta de amargura, que experimentastes quando os soldados pregando na Cruz Vossas Sagradas mãos e Vossos pés tão delicados, transpassaram-nos com grandes e rombudos cravos. E não Vos encontrando no estado em que teriam desejado para dar largas à sua cólera, dilataram as Vossas chagas, exacerbando assim as Vossas dores.</p>
+<p>Depois, por uma crueldade inaudita, Vos estenderam sobre a Cruz e Vos viraram de todos os lados, deslocando assim os Vossos membros. Eu Vos conjuro, pela lembrança desta dor que suportastes na Cruz com tanta santidade e mansidão, que Vos digneis conceder-me o Vosso temor e o Vosso amor. Assim seja.</p>
+<h3 id="quarta-ora%C3%A7%C3%A3o-a-prece-de-jesus-cristo-pelos-algozes-que-o-crucificaram" tabindex="-1"><a class="anchor" href="#quarta-ora%C3%A7%C3%A3o-a-prece-de-jesus-cristo-pelos-algozes-que-o-crucificaram" aria-hidden="true"><span class="octicon octicon-link"></span></a> Quarta Oração: A prece de Jesus Cristo pelos algozes que O crucificaram</h3>
+<!-- markdownlint-disable MD028 -->
+<blockquote>
+<p>Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.</p>
+</blockquote>
+<blockquote>
+<p>Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.</p>
+</blockquote>
+<!-- markdownlint-enable MD028 -->
+<p>Ó Jesus, Médico Celeste, que foste elevado na Cruz afim de curar as nossas chagas por meio das Vossas. Lembrai-Vos do abatimento em que Vos encontrastes e das contusões que Vos infligiram em Vossos Sagrados membros, dos quais nenhum permaneceu em seu lugar, de tal modo que dor alguma poderia ser comparada à Vossa.</p>
+<p>Da planta dos pés até o alto da cabeça, nenhuma parte do Vosso corpo esteve isenta de tormentos; E entretanto, esquecido de Vossos sofrimentos, não Vos cansastes de suplicar a Vosso Pai pelos inimigos que Vos cercavam, dizendo-lhe: <strong>"Pai, perdoai-lhes, porque não sabem o que fazem"</strong>.</p>
+<p>Por esta grande Misericórdia e em memória desta dor, fazei com que a lembrança de Vossa Paixão, tão impregnada de amargura, opere em mim uma perfeita contrição e a remissão de todos os meus pecados. Assim seja.</p>
+<h3 id="quinta-ora%C3%A7%C3%A3o-a-miseric%C3%B3rdia-de-cristo-para-com-os-pecadores-arrependidos" tabindex="-1"><a class="anchor" href="#quinta-ora%C3%A7%C3%A3o-a-miseric%C3%B3rdia-de-cristo-para-com-os-pecadores-arrependidos" aria-hidden="true"><span class="octicon octicon-link"></span></a> Quinta Oração: A misericórdia de Cristo para com os pecadores arrependidos</h3>
+<!-- markdownlint-disable MD028 -->
+<blockquote>
+<p>Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.</p>
+</blockquote>
+<blockquote>
+<p>Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.</p>
+</blockquote>
+<!-- markdownlint-enable MD028 -->
+<p>Ó Jesus, espelho do esplendor eterno, lembrai-Vos da tristeza que sentistes, quando contemplando à luz da Vossa divindade a predestinação daqueles que deviam ser salvos pelos méritos de Vossa Santa Paixão, contemplastes ao mesmo tempo a multidão dos réprobos que deviam ser condenados por causa dos seus pecados e lastimastes amargamente a sorte desses infelizes pecadores, perdidos e desesperados.</p>
+<p>Por este abismo de compaixão e de piedade e, principalmente pela bondade que manifestastes ao bom ladrão, dizendo-lhe: <strong>"Hoje estarás Comigo no Paraíso"</strong>, eu Vos suplico, ò doce Jesus, que na hora de minha morte useis de misericórdia para comigo. Assim seja.</p>
+<h3 id="sexta-ora%C3%A7%C3%A3o-o-testamento-de-jesus-na-cruz" tabindex="-1"><a class="anchor" href="#sexta-ora%C3%A7%C3%A3o-o-testamento-de-jesus-na-cruz" aria-hidden="true"><span class="octicon octicon-link"></span></a> Sexta Oração: O testamento de Jesus na Cruz</h3>
+<!-- markdownlint-disable MD028 -->
+<blockquote>
+<p>Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.</p>
+</blockquote>
+<blockquote>
+<p>Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.</p>
+</blockquote>
+<!-- markdownlint-enable MD028 -->
+<p>Ó Jesus, Rei amável e todo desejável, lembrai-Vos da dor que experimentastes quando nu e como um miserável pregado e levantado na Cruz, foste abandonado por todos os Vossos parentes e amigos - com exceção de Vossa Mãe bem-amada que permaneceu em companhia de São João, muito fielmente junto de Vós na agonia. Lembrai-vos de que os entregastes um ao outro, dizendo: <strong>"Mulher, eis aí o teu filho"</strong> e a João: <strong>"Eis aí a tua Mãe"</strong>.</p>
+<p>Eu Vos suplico, ó meu Salvador, pela espada de dor que então transpassou a alma de Vossa Santa Mãe, que tenhais compaixão de mim em todas as minhas angústias e tribulações, tanto corporais como espirituais e que Vos digneis assistir-me nas provações que me sobrevierem, sobretudo na hora da minha morte. Assim seja.</p>
+<h3 id="s%C3%A9tima-ora%C3%A7%C3%A3o-a-sede-de-cristo" tabindex="-1"><a class="anchor" href="#s%C3%A9tima-ora%C3%A7%C3%A3o-a-sede-de-cristo" aria-hidden="true"><span class="octicon octicon-link"></span></a> Sétima Oração: A sede de Cristo</h3>
+<!-- markdownlint-disable MD028 -->
+<blockquote>
+<p>Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.</p>
+</blockquote>
+<blockquote>
+<p>Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.</p>
+</blockquote>
+<!-- markdownlint-enable MD028 -->
+<p>Ó Jesus, fonte inexaurível de piedade, que por uma profunda ternura de amor dissestes sobre a Cruz: <strong>"Tenho sede!"</strong> - mas sede da salvação do gênero humano.</p>
+<p>Eu vos suplico, ó meu Salvador, que vos digneis estimular o desejo que meu coração experimenta de tender à perfeição em todas as minhas obras e extinguir, por completo em mim a concupiscência carnal e o ardor dos desejos mundanos. Assim seja.</p>
+<h3 id="oitava-ora%C3%A7%C3%A3o-a-bebida-de-cristo" tabindex="-1"><a class="anchor" href="#oitava-ora%C3%A7%C3%A3o-a-bebida-de-cristo" aria-hidden="true"><span class="octicon octicon-link"></span></a> Oitava Oração: A bebida de Cristo</h3>
+<!-- markdownlint-disable MD028 -->
+<blockquote>
+<p>Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.</p>
+</blockquote>
+<blockquote>
+<p>Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.</p>
+</blockquote>
+<!-- markdownlint-enable MD028 -->
+<p>Ó Jesus, doçura dos corações, suavidade dos espíritos. Pelo amargo sabor do fel e do vinagre que provastes sobre a Cruz por amor de todos nós, concedei-me a graça de receber dignamente o Vosso Corpo e Vosso preciosíssimo Sangue durante a minha vida e na hora da minha morte, afim de que sirvam de remédio e de consolo para minha alma. Assim seja.</p>
+<h3 id="nona-ora%C3%A7%C3%A3o-o-clamor-de-ang%C3%BAstia-de-cristo-na-cruz" tabindex="-1"><a class="anchor" href="#nona-ora%C3%A7%C3%A3o-o-clamor-de-ang%C3%BAstia-de-cristo-na-cruz" aria-hidden="true"><span class="octicon octicon-link"></span></a> Nona Oração: O clamor de angústia de Cristo na Cruz</h3>
+<!-- markdownlint-disable MD028 -->
+<blockquote>
+<p>Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.</p>
+</blockquote>
+<blockquote>
+<p>Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.</p>
+</blockquote>
+<!-- markdownlint-enable MD028 -->
+<p>Ó Jesus, virtude real, alegria do espírito, lembrai-Vos da dor que suportastes quando mergulhado de amargura ao sentir aproximar-se a morte, insultado e ultrajado pelos homens, julgastes haver sido abandonado por Vosso Pai, dizendo-lhe: <strong>"Meu Deus, Meu Deus, por que me abandonaste?"</strong></p>
+<p>Por essa angústia eu Vos suplico, ó meu Salvador, que não me abandoneis nas aflições e nas dores da morte. Assim seja.</p>
+<h3 id="d%C3%A9cima-ora%C3%A7%C3%A3o-as-muitas-feridas-de-cristo" tabindex="-1"><a class="anchor" href="#d%C3%A9cima-ora%C3%A7%C3%A3o-as-muitas-feridas-de-cristo" aria-hidden="true"><span class="octicon octicon-link"></span></a> Décima Oração: As muitas feridas de Cristo</h3>
+<!-- markdownlint-disable MD028 -->
+<blockquote>
+<p>Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.</p>
+</blockquote>
+<blockquote>
+<p>Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.</p>
+</blockquote>
+<!-- markdownlint-enable MD028 -->
+<p>Ó Jesus, que sois em todas as coisas começo e fim, vida e virtude, lembrai-Vos de que por nós foste mergulhado num abismo de dores, da planta dos pés até o alto da cabeça.</p>
+<p>Em consideração da extensão de Vossas chagas, ensinai-me a guardar Vossos Mandamentos, mediante uma sincera caridade - Mandamentos esses que são caminho espaçoso e agradável para aqueles que vos amam. Assim seja.</p>
+<h3 id="d%C3%A9cima-primeira-ora%C3%A7%C3%A3o-as-chagas-profundas-de-cristo" tabindex="-1"><a class="anchor" href="#d%C3%A9cima-primeira-ora%C3%A7%C3%A3o-as-chagas-profundas-de-cristo" aria-hidden="true"><span class="octicon octicon-link"></span></a> Décima Primeira Oração: As Chagas profundas de Cristo</h3>
+<!-- markdownlint-disable MD028 -->
+<blockquote>
+<p>Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.</p>
+</blockquote>
+<blockquote>
+<p>Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.</p>
+</blockquote>
+<!-- markdownlint-enable MD028 -->
+<p>Ó Jesus, profundíssimo abismo de misericórdia, suplico-Vos em memória de Vossas chagas que penetraram até a medula de Vossos ossos e atingiram até Vossas entranhas, que Vos digneis afastar esse(a) pobre pecador(a) do lodaçal de ofensas em que está submerso(a), conduzindo-o(a) para longe do pecado.</p>
+<p>Suplico-Vos também esconder-me de Vossa Face irritada, ocultando-me dentro de Vossas Chagas até que Vossa cólera e Vossa justa indignação tenham passado. Assim seja.</p>
+<h3 id="d%C3%A9cima-segunda-ora%C3%A7%C3%A3o-as-chagas-sangrentas-de-jesus" tabindex="-1"><a class="anchor" href="#d%C3%A9cima-segunda-ora%C3%A7%C3%A3o-as-chagas-sangrentas-de-jesus" aria-hidden="true"><span class="octicon octicon-link"></span></a> Décima Segunda Oração: As chagas sangrentas de Jesus</h3>
+<!-- markdownlint-disable MD028 -->
+<blockquote>
+<p>Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.</p>
+</blockquote>
+<blockquote>
+<p>Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.</p>
+</blockquote>
+<!-- markdownlint-enable MD028 -->
+<p>Ó Jesus, espelho de verdade, sinal de unidade, laço de caridade. Lembrai-Vos dos inumeráveis ferimentos que recebestes, desde a cabeça até os pés, ao ponto de ficardes dilacerado e coberto pela púrpura de Vosso Sangue adorável.</p>
+<p>Ó quão grande e universal foi a dor que sofrestes em Vossa Carne Virginal por nosso amor! Dulcíssimo Jesus, que poderíeis fazer por nós que não o houvésseis feito? Eu Vos conjuro, ó meu Salvador, que vos digneis imprimir com Vosso precioso Sangue, todas as Vossas chagas no meu coração, afim de que eu relembre sem cessar, Vossas dores e Vosso amor.</p>
+<p>Que pela fiel lembrança de Vossa Paixão, o fruto dos Vossos sofrimentos seja renovado em minha alma e que Vosso amor vá crescendo em mim cada dia mais, até que eu me encontre finalmente convosco, que sois o tesouro de todos os bens e a fonte de todas as alegrias.</p>
+<p>Ó dulcíssimo Jesus, concedei-me poder gozar de semelhante ventura na vida eterna. Assim seja.</p>
+<h3 id="d%C3%A9cima-terceira-ora%C3%A7%C3%A3o-a-%C3%BAltima-ang%C3%BAstia-de-cristo" tabindex="-1"><a class="anchor" href="#d%C3%A9cima-terceira-ora%C3%A7%C3%A3o-a-%C3%BAltima-ang%C3%BAstia-de-cristo" aria-hidden="true"><span class="octicon octicon-link"></span></a> Décima Terceira Oração: A última angústia de Cristo</h3>
+<!-- markdownlint-disable MD028 -->
+<blockquote>
+<p>Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.</p>
+</blockquote>
+<blockquote>
+<p>Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.</p>
+</blockquote>
+<!-- markdownlint-enable MD028 -->
+<p>Ó Jesus, fortíssimo Leão, Rei imortal e invencível. Lembrai-Vos da dor que Vos acabrunhou quando sentistes esgotadas todas as Vossas forças, tanto do Coração como do Corpo, e inclinastes a cabeça dizendo: <strong>"Tudo está consumado!"</strong></p>
+<p>Por esta angústia e por esta dor, eu Vos suplico Senhor Jesus, que tenhais piedade de mim quando soar a minha última hora e minha alma estiver amargurada e meu espírito cheio e aflição. Assim seja.</p>
+<h3 id="d%C3%A9cima-quarta-ora%C3%A7%C3%A3o-a-morte-de-cristo" tabindex="-1"><a class="anchor" href="#d%C3%A9cima-quarta-ora%C3%A7%C3%A3o-a-morte-de-cristo" aria-hidden="true"><span class="octicon octicon-link"></span></a> Décima Quarta Oração: A morte de Cristo</h3>
+<!-- markdownlint-disable MD028 -->
+<blockquote>
+<p>Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.</p>
+</blockquote>
+<blockquote>
+<p>Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.</p>
+</blockquote>
+<!-- markdownlint-enable MD028 -->
+<p>Ó Jesus, Filho Único do Pai, esplendor e imagem da Sua substância, lembrai-Vos da humilde recomendação que lhes dirigistes, dizendo: <strong>"Meu Pai, em Vossas Mãos entrego o Meu Espírito!"</strong> Depois expirastes, estando Vosso Corpo despedaçado, Vosso coração transpassado e as entranhas de Vossa misericórdia abertas para nos resgatar!</p>
+<p>Por essa preciosa morte, eu Vos conjuro, ó Rei dos Santos, que me deis força e me socorrais para resistir ao demônio, à carne e ao sangue, afim de que estando morto(a) para o mundo, eu possa viver somente em Vós.</p>
+<p>Na hora da minha morte, recebei, eu Vos peço, minha alma peregrina e exilada, que retorna para Vós. Assim seja.</p>
+<h3 id="d%C3%A9cima-quinta-ora%C3%A7%C3%A3o-o-%C3%BAltimo-e-total-derramamento-do-sangue-de-cristo" tabindex="-1"><a class="anchor" href="#d%C3%A9cima-quinta-ora%C3%A7%C3%A3o-o-%C3%BAltimo-e-total-derramamento-do-sangue-de-cristo" aria-hidden="true"><span class="octicon octicon-link"></span></a> Décima Quinta Oração: O último e total derramamento do Sangue de Cristo</h3>
+<!-- markdownlint-disable MD028 -->
+<blockquote>
+<p>Pai Nosso que estais nos Céus, santificado seja o Vosso Nome!
+Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
+O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.</p>
+</blockquote>
+<blockquote>
+<p>Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.</p>
+</blockquote>
+<!-- markdownlint-enable MD028 -->
+<p>Ó Jesus, vida verdadeira e fecunda, lembrai-Vos da abundante efusão de sangue que tão generosamente derramastes de Vosso Sagrado Corpo, assim como a uva é triturada no lagar. Do Vosso lado aberto pela lança de um dos soldados, jorraram sangue e água, de tal modo que não retivestes uma gota sequer. E enfim, como um ramalhete de mirra elevado na Cruz, Vossa carne delicada se aniquilou, feneceu o humor de Vossas entranhas e secou a medula de Vossos ossos.</p>
+<p>Por essa tão amarga Paixão e pela efusão de Vosso precioso sangue, eu Vos suplico, ó bom Jesus, que recebais minha alma quando eu estiver na agonia. Assim seja.</p>
+<h3 id="ora%C3%A7%C3%A3o-final" tabindex="-1"><a class="anchor" href="#ora%C3%A7%C3%A3o-final" aria-hidden="true"><span class="octicon octicon-link"></span></a> Oração Final</h3>
+<p>Ó doce Jesus, vulnerai o meu coração afim de que lágrimas de arrependimento, de compulsão e de amor noite e dia me sirvam de alimento. Convertei-me inteiramente à Vós. Que meu coração Vos sirva de perpétua habitação. Que minha conduta Vos seja agradável e que o fim de minha vida seja de tal modo edificante que eu possa ser admitido no Vosso Paraíso, onde com todos os Vossos Santos, hei de vos louvar para sempre. Assim Seja.</p>
+<blockquote>
+<p>"Aquele que disser essas orações pode estar seguro de ser associado ao Supremo Coro dos Anjos e todo aquele que ensinar a alguém, terá assegurado para sempre sua felicidade e seus méritos."</p>
+<p>"No lugar onde se encontrarem e onde forem recitadas essas orações, Deus aí estará também presente com a Sua Graça."</p>
+</blockquote>
+
+		</main>
+	</body>
+</html>
