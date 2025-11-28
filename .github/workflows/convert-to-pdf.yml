@@ -25,15 +25,15 @@ jobs:
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_dir: ./
-          output_dir: ./docs
+          output_dir: ./
           build_html: true
           build_pdf: true
           table_of_contents: false
       - run: |
           REPO_NAME=$(basename ${{ github.repository }})
           echo "REPO_NAME=$REPO_NAME" >> $GITHUB_ENV
-          mv "./docs/README.pdf" "./docs/$REPO_NAME.pdf"
-          mv "./docs/README.html" "./docs/index.html"
+          mv "README.pdf" "./docs/$REPO_NAME.pdf"
+          mv "README.html" "./docs/index.html"
       - name: Commit & Push changes
         run: |
           git config user.name "github-actions[bot]"
