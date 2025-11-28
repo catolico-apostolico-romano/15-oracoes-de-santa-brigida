@@ -6,7 +6,7 @@ No dia 14 de Junho de 1303 no momento do nascimento de Brígida, o pároco Rasbo
 
 Essas orações e promessas foram encontradas num livro impresso em Toulouse em 1740. Escritas e publicadas por Pe. Adrien Parvillens (jesuíta, missionário apostólico na Terra Santa), com a licença e recomendação de propagá-las.
 
-O Papa Pio IX tomou conhecimento destas orações. Ele as confirmou em 31 de Maio de 1862 e as julgou verdadeiras, pois causam benefícios para o bem de todas as almas. Este recomnecimento do Papa foi confirmado por Deus pela realização das promessas com todas as pessoas que tinham rezado  as orações e por inúmeros fatos e sinais, pelos quais Deus queria mostrar que vinham realmente Dele.
+O Papa Pio IX tomou conhecimento destas orações. Ele as confirmou em 31 de Maio de 1862 e as julgou verdadeiras, pois causam benefícios para o bem de todas as almas. Este reconhecimento do Papa foi confirmado por Deus pela realização das promessas com todas as pessoas que tinham rezado  as orações e por inúmeros fatos e sinais, pelos quais Deus queria mostrar que vinham realmente Dele.
 
 Há muito tempo, Santa Brígida tinha pedido ao Senhor para lhe revelar o número de pancadas sofridas em Sua dolorosa Paixão. Um dia apareceu O Salvador e lhe disse:
 
@@ -286,6 +286,7 @@ Por essa tão amarga Paixão e pela efusão de Vosso precioso sangue, eu Vos sup
 > "Aquele que disser essas orações pode estar seguro de ser associado ao Supremo Coro dos Anjos e todo aquele que ensinar a alguém, terá assegurado para sempre sua felicidade e seus méritos."
 >
 > "No lugar onde se encontrarem e onde forem recitadas essas orações, Deus aí estará também presente com a Sua Graça."
+
 
 
 
