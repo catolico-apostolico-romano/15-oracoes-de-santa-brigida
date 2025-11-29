@@ -166,7 +166,7 @@ Eu vos suplico, ó meu Salvador, que vos digneis estimular o desejo que meu cora
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
-Ó Jesus, doçura dos corações, suavidade dos espíritos. Pelo amargo sabor do fel e do vinagre que provastes sobre a Cruz por amor de todos nós, concedei-me a graça de receber dignamente o Vosso Corpo e Vosso preciosíssimo Sangue durante a minha vida e na hora da minha morte, afim de que sirvam de remédio e de consolo para minha alma. Assim seja.
+Ó Jesus, doçura dos corações, suavidade dos espíritos. Pelo amargo sabor do fel e do vinagre que provastes sobre a Cruz por amor de todos nós, concedei-me a graça de receber dignamente o Vosso Corpo e Vosso preciosíssimo Sangue durante a minha vida e na hora da minha morte, afim de que sirvam de remédio e de consolo para a minha alma. Assim seja.
 
 ### Nona Oração: O clamor de angústia de Cristo na Cruz
 
@@ -179,7 +179,7 @@ Eu vos suplico, ó meu Salvador, que vos digneis estimular o desejo que meu cora
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
-Ó Jesus, virtude real, alegria do espírito, lembrai-Vos da dor que suportastes quando mergulhado de amargura ao sentir aproximar-se a morte, insultado e ultrajado pelos homens, julgastes haver sido abandonado por Vosso Pai, dizendo-lhe: **"Meu Deus, Meu Deus, por que me abandonaste?"**
+Ó Jesus, virtude real, alegria do espírito, lembrai-Vos da dor que suportastes quando mergulhado na amargura ao sentir aproximar-se a morte, insultado e ultrajado pelos homens, julgastes haver sido abandonado por Vosso Pai, dizendo-lhe: **"Meu Deus, Meu Deus, por que me abandonaste?"**
 
 Por essa angústia eu Vos suplico, ó meu Salvador, que não me abandoneis nas aflições e nas dores da morte. Assim seja.
 
