@@ -258,7 +258,7 @@ Por esta angústia e por esta dor, eu Vos suplico Senhor Jesus, que tenhais pied
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
-Ó Jesus, Filho Único do Pai, esplendor e imagem da Sua substância, lembrai-Vos da humilde recomendação que lhes dirigistes, dizendo: **"Meu Pai, em Vossas Mãos entrego o Meu Espírito!"** Depois expirastes, estando Vosso Corpo despedaçado, Vosso coração transpassado e as entranhas de Vossa misericórdia abertas para nos resgatar!
+Ó Jesus, Filho Único do Pai, esplendor e imagem da Sua substância, lembrai-Vos da humilde recomendação que lhe dirigistes, dizendo: **"Meu Pai, em Vossas Mãos entrego o Meu Espírito!"** Depois expirastes, estando Vosso Corpo despedaçado, Vosso coração transpassado e as entranhas de Vossa misericórdia abertas para nos resgatar!
 
 Por essa preciosa morte, eu Vos conjuro, ó Rei dos Santos, que me deis força e me socorrais para resistir ao demônio, à carne e ao sangue, afim de que estando morto(a) para o mundo, eu possa viver somente em Vós.
 
