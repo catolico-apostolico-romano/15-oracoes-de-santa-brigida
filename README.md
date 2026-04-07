@@ -49,7 +49,7 @@ Em nome Do Pai, Do Filho e Do Espírito Santo, amém.
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graça! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
@@ -70,7 +70,7 @@ Em memória dessas penas e dores que suportastes antes da Vossa Paixão sobre a 
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graça! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
@@ -85,7 +85,7 @@ Em consideração desses insultos e desses tormentos, eu Vos suplico, ó meu Sal
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graça! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
@@ -100,7 +100,7 @@ Depois, por uma crueldade inaudita, Vos estenderam sobre a Cruz e Vos viraram de
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graça! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
@@ -117,7 +117,7 @@ Por esta grande Misericórdia e em memória desta dor, fazei com que a lembranç
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graça! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
@@ -132,7 +132,7 @@ Por este abismo de compaixão e de piedade e, principalmente pela bondade que ma
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graça! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
@@ -147,7 +147,7 @@ Eu Vos suplico, ó meu Salvador, pela espada de dor que então transpassou a alm
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graça! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
@@ -162,7 +162,7 @@ Eu vos suplico, ó meu Salvador, que vos digneis estimular o desejo que meu cora
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graça! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
@@ -175,7 +175,7 @@ Eu vos suplico, ó meu Salvador, que vos digneis estimular o desejo que meu cora
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graça! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
@@ -190,7 +190,7 @@ Por essa angústia eu Vos suplico, ó meu Salvador, que não me abandoneis nas a
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graça! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
@@ -205,7 +205,7 @@ Em consideração da extensão de Vossas chagas, ensinai-me a guardar Vossos Man
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graça! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
@@ -220,7 +220,7 @@ Suplico-Vos também esconder-me de Vossa Face irritada, ocultando-me dentro de V
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graça! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
@@ -239,7 +239,7 @@ Que pela fiel lembrança de Vossa Paixão, o fruto dos Vossos sofrimentos seja r
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graça! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
@@ -254,7 +254,7 @@ Por esta angústia e por esta dor, eu Vos suplico Senhor Jesus, que tenhais pied
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graça! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
@@ -271,7 +271,7 @@ Na hora da minha morte, recebei, eu Vos peço, minha alma peregrina e exilada, q
 > Venha a nós o Vosso Reino e seja feita a Vossa vontade, assim na Terra como no Céu.
 > O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.
 
-> Ave Maria, cheia de Graças! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
+> Ave Maria, cheia de Graça! O Senhor é convosco! Bendita sois vós entre as mulheres e bendito é O fruto do Vosso ventre, Jesus.
 > Santa Maria, mãe de Deus. Rogai por nós os pecadores, agora e na hora da nossa morte. Amém.
 <!-- markdownlint-enable MD028 -->
 
